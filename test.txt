@@ -1,103 +1,3143 @@
 [
     {
-        "word": "hello",
-        "phonetics": [
-            {
-                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hello-au.mp3",
-                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=75797336",
-                "license": {
-                    "name": "BY-SA 4.0",
-                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+        "meta": {
+            "id": "close:1",
+            "uuid": "8874e349-783a-4a09-9114-2ccb31ddc5aa",
+            "src": "learners",
+            "section": "alpha",
+            "target": {
+                "tuuid": "fad9b4ab-5460-4322-9a5e-576cac0acb22",
+                "tsrc": "collegiate"
+            },
+            "highlight": "yes",
+            "stems": [
+                "close",
+                "closable",
+                "close one's doors",
+                "close her doors",
+                "close his doors",
+                "close their doors",
+                "close one's eyes to",
+                "close her eyes to",
+                "close his eyes to",
+                "close their eyes to",
+                "close ranks",
+                "close the door",
+                "closeable",
+                "closed",
+                "closes",
+                "closing",
+                "close down",
+                "close in",
+                "close off",
+                "close on",
+                "close out",
+                "close the door on",
+                "close up",
+                "close your doors",
+                "close your eyes to",
+                "close the gap",
+                "close up shop"
+            ],
+            "app-shortdef": {
+                "hw": "close:1",
+                "fl": "verb",
+                "def": [
+                    "{bc} to move (a door, window, etc.) so that things cannot pass through an opening",
+                    "{bc} to cover the opening of (something)",
+                    "{bc} to bring together the parts or edges of (something open)"
+                ]
+            },
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "close",
+            "prs": [
+                {
+                    "ipa": "\u02c8klo\u028az",
+                    "sound": {
+                        "audio": "close_01"
+                    }
                 }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "clos*es"
             },
             {
-                "text": "/h\u0259\u02c8l\u0259\u028a/",
-                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hello-uk.mp3",
-                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=9021983",
-                "license": {
-                    "name": "BY 3.0 US",
-                    "url": "https://creativecommons.org/licenses/by/3.0/us"
-                }
+                "if": "closed"
             },
             {
-                "text": "/h\u0259\u02c8lo\u028a/",
-                "audio": ""
+                "if": "clos*ing"
             }
         ],
-        "meanings": [
+        "snote": [
+            [
+                "t",
+                "The opposite of {it}close{/it} is {it}open{/it} in every sense except senses 3b and 9."
+            ]
+        ],
+        "def": [
             {
-                "partOfSpeech": "noun",
-                "definitions": [
-                    {
-                        "definition": "\"Hello!\" or an equivalent greeting.",
-                        "synonyms": [],
-                        "antonyms": []
-                    }
-                ],
-                "synonyms": [
-                    "greeting"
-                ],
-                "antonyms": []
-            },
-            {
-                "partOfSpeech": "verb",
-                "definitions": [
-                    {
-                        "definition": "To greet with \"hello\".",
-                        "synonyms": [],
-                        "antonyms": []
-                    }
-                ],
-                "synonyms": [],
-                "antonyms": []
-            },
-            {
-                "partOfSpeech": "interjection",
-                "definitions": [
-                    {
-                        "definition": "A greeting (salutation) said when meeting someone or acknowledging someone\u2019s arrival or presence.",
-                        "synonyms": [],
-                        "antonyms": [],
-                        "example": "Hello, everyone."
-                    },
-                    {
-                        "definition": "A greeting used when answering the telephone.",
-                        "synonyms": [],
-                        "antonyms": [],
-                        "example": "Hello? How may I help you?"
-                    },
-                    {
-                        "definition": "A call for response if it is not clear if anyone is present or listening, or if a telephone conversation may have been disconnected.",
-                        "synonyms": [],
-                        "antonyms": [],
-                        "example": "Hello? Is anyone there?"
-                    },
-                    {
-                        "definition": "Used sarcastically to imply that the person addressed or referred to has done something the speaker or writer considers to be foolish.",
-                        "synonyms": [],
-                        "antonyms": [],
-                        "example": "You just tried to start your car with your cell phone. Hello?"
-                    },
-                    {
-                        "definition": "An expression of puzzlement or discovery.",
-                        "synonyms": [],
-                        "antonyms": [],
-                        "example": "Hello! What\u2019s going on here?"
-                    }
-                ],
-                "synonyms": [],
-                "antonyms": [
-                    "bye",
-                    "goodbye"
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to move (a door, window, etc.) so that things cannot pass through an opening {bc}{sx|shut||} "
+                                    ],
+                                    [
+                                        "wsgram",
+                                        "+ obj"
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Please {it}close{/it} the door."
+                                            },
+                                            {
+                                                "t": "We had better {it}close{/it} the windows; it looks like it's going to rain."
+                                            },
+                                            {
+                                                "t": "I forgot to {it}close{/it} the gate."
+                                            },
+                                            {
+                                                "t": "She was having trouble {it}closing{/it} the drawer."
+                                            },
+                                            {
+                                                "t": "{it}Close{/it} the lid on the box tightly."
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "wsgram",
+                                        "no obj"
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The door opened and {it}closed{/it} so quietly that I didn't notice he had come in the room."
+                                            },
+                                            {
+                                                "t": "The box's lid {it}closed{/it} with a bang."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "sgram": "+ obj",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to cover the opening of (something) {bc}{sx|shut||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Remember to {it}close{/it} the box of cereal when you're done."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to bring together the parts or edges of (something open) "
+                                    ],
+                                    [
+                                        "wsgram",
+                                        "+ obj"
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Please {it}close{/it} your books and put them under your desks."
+                                            },
+                                            {
+                                                "t": "{it}Close{/it} your mouth."
+                                            },
+                                            {
+                                                "t": "{it}Close{/it} your eyes and go to sleep."
+                                            },
+                                            {
+                                                "t": "I {it}closed{/it} my fists and got ready to fight."
+                                            },
+                                            {
+                                                "t": "{it}close{/it} an umbrella"
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "wsgram",
+                                        "no obj"
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "This suitcase just won't {it}close{/it}!"
+                                            },
+                                            {
+                                                "t": "Her eyes {it}closed{/it}, and she drifted off to sleep."
+                                            },
+                                            {
+                                                "t": "My throat {it}closed{/it} and I felt like I couldn't breathe."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to bring together the edges of (a wound) so that it can heal "
+                                    ],
+                                    [
+                                        "wsgram",
+                                        "+ obj"
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "It took 10 stitches to {it}close{/it} the wound on his head."
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "wsgram",
+                                        "no obj"
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The cut eventually {it}closed{/it} [={it}closed up{/it}, {it}healed over{/it}] on its own."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to not allow (a road, park, etc.) to be used for a period of time "
+                                    ],
+                                    [
+                                        "wsgram",
+                                        "+ obj"
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The city {it}closed{/it} [={it}closed off{/it}] the beach during the storm."
+                                            },
+                                            {
+                                                "t": "They {it}closed{/it} the bridge to traffic. [=they did not allow cars to use the bridge]"
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "wsgram",
+                                        "no obj"
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The park {it}closes{/it} every evening at dusk."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "5 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to stop the services or activities of (a business, school, etc.) for a period of time "
+                                    ],
+                                    [
+                                        "wsgram",
+                                        "+ obj"
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "They {it}closed{/it} the school today because of the storm."
+                                            },
+                                            {
+                                                "t": "We'll be {it}closing{/it} the theater while we make the necessary repairs."
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "wsgram",
+                                        "no obj"
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The store {it}closes{/it} for lunch from 1 to 2 p.m."
+                                            },
+                                            {
+                                                "t": "The airport {it}closed{/it} for two hours yesterday due to icy conditions."
+                                            },
+                                            {
+                                                "t": "The bank {it}closes{/it} at noon on Saturdays."
+                                            },
+                                            {
+                                                "t": "What time does the library {it}close{/it}?"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to stop the services or activities of (a business, school, etc.) permanently "
+                                    ],
+                                    [
+                                        "wsgram",
+                                        "+ obj"
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "They {it}closed{/it} [={it}closed down, shut down{/it}] the school/factory/office last year."
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "wsgram",
+                                        "no obj"
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The restaurant has {it}closed{/it} for lack of business."
+                                            },
+                                            {
+                                                "t": "The play {it}closed{/it} [=it stopped being performed] after 112 performances."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "6",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to end (something) "
+                                    ],
+                                    [
+                                        "wsgram",
+                                        "+ obj"
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The minister {it}closed{/it} [={it}concluded{/it}] the services with a short prayer."
+                                            },
+                                            {
+                                                "t": "She {it}closed{/it} the meeting by thanking everyone for their help."
+                                            },
+                                            {
+                                                "t": "Investigators {it}closed{/it} the case after concluding that his death was an accident."
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "wsgram",
+                                        "no obj"
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The services {it}closed{/it} [={it}concluded{/it}] with a short prayer."
+                                            },
+                                            {
+                                                "t": "I'd like to {it}close{/it} by thanking you all for your help."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "7",
+                                "sgram": "+ obj",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to stop keeping money in (an account at a bank) "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "I {it}closed{/it} [={it}closed out{/it}] my savings account and opened up a new one at another bank."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "8",
+                                "sgram": "+ obj",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to end the use of (a file, document, or program) on a computer "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Remember to save the file before {it}closing{/it} it."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "9",
+                                "sgram": "+ obj",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to formally accept (an agreement) "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "They just {it}closed{/it} a deal to take ownership of a new restaurant."
+                                            },
+                                            {
+                                                "t": "the custom of {it}closing{/it} a deal by shaking hands"
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "text",
+                                        "{dx}see also {dxt|close on||(below)}{/dx}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "10",
+                                "sgram": "no obj",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to reach a specified price or level at the end of the day "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The stock opened at $19 a share and {it}closed{/it} at $22."
+                                            },
+                                            {
+                                                "t": "Stocks opened weak but {it}closed{/it} strong."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "11",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to reduce the amount of distance or difference between two things, people, or groups "
+                                    ],
+                                    [
+                                        "wsgram",
+                                        "+ obj"
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The challenger has {it}closed{/it} [={it}narrowed{/it}] the champion's lead to within two points."
+                                            },
+                                            {
+                                                "t": "{it}closing{/it} the distance to the lead runner"
+                                            },
+                                            {
+                                                "t": "These changes will help {phrase}close the gap{/phrase} between the richest and the poorest countries."
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "wsgram",
+                                        "no obj"
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "She has {it}closed{/it} to within two points of the champion."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
                 ]
             }
         ],
-        "license": {
-            "name": "CC BY-SA 3.0",
-            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        "dros": [
+            {
+                "drp": "close down",
+                "gram": "phrasal verb",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "1 a",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to permanently stop operating {bc}{sx|close||} "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "The factory {it}closed down{/it} in the 1980s."
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "b",
+                                        "sls": [
+                                            "British"
+                                        ],
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to stop broadcasting from a radio or television station for the day "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "We're {it}closing down{/it} for the night: tune in again tomorrow morning!"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ],
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "2",
+                                        "phrasev": [
+                                            {
+                                                "pva": "close down (something)"
+                                            },
+                                            {
+                                                "pvl": "or",
+                                                "pva": "close (something) down"
+                                            }
+                                        ],
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to permanently stop the services or activities of (a business, school, etc.) "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "They {it}closed down{/it} [={it}closed{/it}, {it}shut down{/it}] the school due to financial problems."
+                                                    }
+                                                ]
+                                            ],
+                                            [
+                                                "text",
+                                                "{dx}see also {dxt|closedown||}{/dx}"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "close in",
+                "gram": "phrasal verb",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to come or move nearer or closer "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "The storm is {it}closing in{/it} [={it}approaching{/it}] fast."
+                                                    },
+                                                    {
+                                                        "t": "Enemy troops are {it}closing in{/it} all around us!"
+                                                    },
+                                                    {
+                                                        "t": "The lions {it}closed in{/it} for the kill."
+                                                    },
+                                                    {
+                                                        "t": "I felt that the world was {it}closing in{/it} around me."
+                                                    },
+                                                    {
+                                                        "t": "The air became colder as night/darkness {it}closed in{/it}. [=as darkness fell, as the night became dark]"
+                                                    }
+                                                ]
+                                            ],
+                                            [
+                                                "uns",
+                                                [
+                                                    [
+                                                        [
+                                                            "text",
+                                                            "often + {it}on{/it} "
+                                                        ],
+                                                        [
+                                                            "vis",
+                                                            [
+                                                                {
+                                                                    "t": "The fire was {it}closing in on{/it} their neighborhood."
+                                                                },
+                                                                {
+                                                                    "t": "The camera slowly {it}closed in on{/it} the actor's face."
+                                                                },
+                                                                {
+                                                                    "t": "Police were {it}closing in on{/it} the two men."
+                                                                },
+                                                                {
+                                                                    "t": "Researchers are {it}closing in on{/it} [=they are close to finding] a cure for the disease."
+                                                                },
+                                                                {
+                                                                    "t": "She's {it}closing in on{/it} 40. [=she is almost 40 years old]"
+                                                                }
+                                                            ]
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "close off",
+                "gram": "phrasal verb",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sphrasev": {
+                                            "phrs": [
+                                                {
+                                                    "pva": "close off (something)"
+                                                },
+                                                {
+                                                    "pvl": "or",
+                                                    "pva": "close (something) off"
+                                                }
+                                            ]
+                                        },
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to not allow (something) to be used for a period of time {bc}{sx|close||} "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "The city {it}closed off{/it} the beach to tourists."
+                                                    },
+                                                    {
+                                                        "t": "{it}closing off{/it} a road with barriers"
+                                                    },
+                                                    {
+                                                        "t": "Half of the museum was {it}closed off{/it} while they made the changes."
+                                                    }
+                                                ]
+                                            ],
+                                            [
+                                                "uns",
+                                                [
+                                                    [
+                                                        [
+                                                            "text",
+                                                            "sometimes used figuratively "
+                                                        ],
+                                                        [
+                                                            "vis",
+                                                            [
+                                                                {
+                                                                    "t": "He {it}closes{/it} himself {it}off{/it} to new experiences. [=he does not allow himself to have new experiences]"
+                                                                }
+                                                            ]
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "close on",
+                "gram": "phrasal verb",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sphrasev": {
+                                            "phrs": [
+                                                {
+                                                    "pva": "close on (something)"
+                                                }
+                                            ]
+                                        },
+                                        "sls": [
+                                            "US"
+                                        ],
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to formally and legally agree to and complete (an important financial arrangement, such as the purchase of a house) "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "We're going to {it}close on{/it} our house next Friday."
+                                                    },
+                                                    {
+                                                        "t": "They {it}closed on{/it} the deal."
+                                                    }
+                                                ]
+                                            ],
+                                            [
+                                                "text",
+                                                "{dx}see also {dxt|close:1||9 (above)}{/dx}"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "close out",
+                "gram": "phrasal verb",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sphrasev": {
+                                            "phrs": [
+                                                {
+                                                    "pva": "close out (something)"
+                                                }
+                                            ]
+                                        },
+                                        "sn": "1",
+                                        "sls": [
+                                            "US"
+                                        ],
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to quickly sell (all of a particular type of product in a store) at a lower price "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "We're {it}closing out{/it} our entire stock of children's clothing! Come and pick up some bargains!"
+                                                    }
+                                                ]
+                                            ],
+                                            [
+                                                "text",
+                                                "{dx}see also {dxt|closeout||}{/dx}"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ],
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "2",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to stop keeping money in (a bank account) "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "She withdrew all her money and {it}closed out{/it} [={it}closed{/it}] her account."
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ],
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "3",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to end (something) in a specified way "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "The team {it}closed out{/it} the series with a 2-1 win over New York."
+                                                    },
+                                                    {
+                                                        "t": "She {it}closed out{/it} her remarkable career with a final grand performance."
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "close ranks",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{dx}see {dxt|rank:1||}{/dx}"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "close the door on",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{dx}see {dxt|door||}{/dx}"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "close up",
+                "gram": "phrasal verb",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "1 a",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to close and lock all the doors of a building usually for a short period of time "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "Businesses {it}closed up{/it} [={it}closed{/it}] early so employees could attend the parade."
+                                                    },
+                                                    {
+                                                        "t": "We've {it}closed up{/it} for the day. Please come back tomorrow."
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "b",
+                                        "phrasev": [
+                                            {
+                                                "pva": "close (something) up"
+                                            },
+                                            {
+                                                "pvl": "or",
+                                                "pva": "close up (something)"
+                                            }
+                                        ],
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to close and lock all the doors of (a house, store, etc.) "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "They {it}closed up{/it} the house and left town."
+                                                    }
+                                                ]
+                                            ],
+                                            [
+                                                "snote",
+                                                [
+                                                    [
+                                                        "t",
+                                                        "To {phrase}close up shop{/phrase} is to go out of business forever or stop performing all services or activities for a period of time."
+                                                    ],
+                                                    [
+                                                        "vis",
+                                                        [
+                                                            {
+                                                                "t": "Rather than {it}closing up shop{/it} entirely, the company laid off half of its workers."
+                                                            },
+                                                            {
+                                                                "t": "The restaurant has already {it}closed up shop{/it} for the winter."
+                                                            }
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ],
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "2",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to move closer together "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "The troops {it}closed up{/it} and prepared to begin the attack."
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ],
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "3",
+                                        "sls": [
+                                            "of a wound"
+                                        ],
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to become completely healed "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "The cut eventually {it}closed up{/it} [={it}closed{/it}] on its own."
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ],
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "4",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to become quiet {bc}to stop talking about your thoughts or emotions with other people "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "She {it}closes up{/it} when people ask her about her parents."
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ],
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "5",
+                                        "phrasev": [
+                                            {
+                                                "pva": "close (something) up"
+                                            },
+                                            {
+                                                "pvl": "or",
+                                                "pva": "close up (something)"
+                                            }
+                                        ],
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to bring (people or things) closer together "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "{it}Close up{/it} the spaces between the lines."
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "close your doors",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{dx}see {dxt|door||}{/dx}"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "close your eyes to",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{dx}see {dxt|eye:1||}{/dx}"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ],
+        "shortdef": [
+            "to move (a door, window, etc.) so that things cannot pass through an opening : shut",
+            "to cover the opening of (something) : shut",
+            "to bring together the parts or edges of (something open)"
+        ]
+    },
+    {
+        "meta": {
+            "id": "close:2",
+            "uuid": "ca4b36be-be6d-4efe-80c5-8617a71aa153",
+            "src": "learners",
+            "section": "alpha",
+            "target": {
+                "tuuid": "d8217514-b0bd-48ab-8dda-bf0b5cad5a2d",
+                "tsrc": "collegiate"
+            },
+            "highlight": "yes",
+            "stems": [
+                "close",
+                "close to home",
+                "close to the bone",
+                "close to the vest",
+                "closelier",
+                "closeliest",
+                "closely",
+                "closeness",
+                "closenesses",
+                "closer",
+                "closest",
+                "close to the edge",
+                "close to the mark",
+                "close to your chest",
+                "in close proximity to",
+                "at close range",
+                "at close quarters",
+                "in close quarters",
+                "close resemblance to",
+                "close but no cigar",
+                "close one",
+                "close to my heart",
+                "close watch",
+                "close eye",
+                "too close to call",
+                "a close second"
+            ],
+            "app-shortdef": {
+                "hw": "close:2",
+                "fl": "adjective",
+                "def": [
+                    "{bc} near in space {bc} not far away or distant",
+                    "{bc} near in time",
+                    "{bc} very similar {bc} almost the same"
+                ]
+            },
+            "offensive": false
         },
-        "sourceUrls": [
-            "https://en.wiktionary.org/wiki/hello"
+        "hom": 2,
+        "hwi": {
+            "hw": "close",
+            "prs": [
+                {
+                    "ipa": "\u02c8klo\u028as",
+                    "sound": {
+                        "audio": "close002"
+                    }
+                }
+            ]
+        },
+        "fl": "adjective",
+        "ins": [
+            {
+                "if": "clos*er"
+            },
+            {
+                "ifc": "-est",
+                "if": "clos*est"
+            }
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}near in space {bc}not far away or distant "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "We're not there yet, but we're getting {it}close{/it}."
+                                            },
+                                            {
+                                                "t": "We stood {it}close{/it} together to stay warm."
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "often + {it}to{/it} "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "New York is much {it}closer to{/it} Chicago than it is {it}to{/it} Los Angeles."
+                                                        },
+                                                        {
+                                                            "t": "Don't get too {it}close to{/it} the fire."
+                                                        },
+                                                        {
+                                                            "t": "Stay {it}close to{/it} me, children!"
+                                                        },
+                                                        {
+                                                            "t": "Let's try to sit {it}close to{/it} the front."
+                                                        },
+                                                        {
+                                                            "t": "The trees were planted {phrase}in close proximity to{/phrase} [={it}near{/it}] the building."
+                                                        },
+                                                        {
+                                                            "t": "The gun is made for shooting {phrase}at close range{/phrase}. [=from a short distance]"
+                                                        },
+                                                        {
+                                                            "t": "We were able to observe their behavior {phrase}at close quarters{/phrase}. [=from a short distance]"
+                                                        },
+                                                        {
+                                                            "t": "Over 200 people lived {phrase}in close quarters{/phrase} [=very close together] on the ship."
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ],
+                                    [
+                                        "text",
+                                        "{dx}see also {it}close encounter{/it} at {dxt|encounter:2||}{/dx}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}near in time "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Christmas is getting {it}closer{/it} and will soon be here."
+                                            },
+                                            {
+                                                "t": "She had her two children very {it}close{/it} together. [=her second child was born soon after her first]"
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "often + {it}to{/it} "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "You shouldn't snack so {it}close to{/it} dinnertime."
+                                                        },
+                                                        {
+                                                            "t": "It's getting {it}close to{/it} midnight."
+                                                        },
+                                                        {
+                                                            "t": "My birthday is {it}close to{/it} Thanksgiving."
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "lbs": [
+                                    "not used before a noun"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}very similar {bc}almost the same "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Their daughters are {it}close{/it} in age."
+                                            },
+                                            {
+                                                "t": "{it}close{/it} in size and shape"
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "often + {it}to{/it} "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "a sound {it}close to{/it} the sound of breaking glass"
+                                                        },
+                                                        {
+                                                            "t": "He bears a {phrase}close resemblance to{/phrase} his father. [=he looks very much like his father]"
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4",
+                                "lbs": [
+                                    "not used before a noun"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}almost correct "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{ldquo}I'd guess that you're 29 years old.{rdquo} {ldquo}You're {it}close{/it}. I'm 30.{rdquo}"
+                                            },
+                                            {
+                                                "t": "It's not exactly right, but it's {it}close{/it}."
+                                            },
+                                            {
+                                                "t": "You're way off! Not even {it}close{/it}! [=you are completely wrong]"
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "snote",
+                                        [
+                                            [
+                                                "t",
+                                                "The informal phrase {phrase}close but no cigar{/phrase} is used to say that a guess was almost correct or that an effort was almost good enough."
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "{ldquo}Was I right?{rdquo} {ldquo}{it}Close{/it}, {it}but no cigar{/it}.{rdquo}"
+                                                    },
+                                                    {
+                                                        "t": "We were {it}close but no cigar{/it}."
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "5 a",
+                                "dt": [
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "used to say that someone or something has almost reached a particular condition"
+                                                ]
+                                            ],
+                                            [
+                                                [
+                                                    "text",
+                                                    "+ {it}to{/it} "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "He was {it}close to{/it} death when they brought him to the hospital."
+                                                        },
+                                                        {
+                                                            "t": "These rare birds are {it}close to{/it} extinction."
+                                                        },
+                                                        {
+                                                            "t": "His reply left her {it}close to{/it} tears. [=his reply almost made her cry]"
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}almost {it}doing{/it} something"
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "+ {it}to{/it} "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "She was {it}close to{/it} crying."
+                                                        },
+                                                        {
+                                                            "t": "The bridge came dangerously {it}close to{/it} collapsing. [=the bridge almost collapsed]"
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "6",
+                                "dt": [
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "used to say that something bad almost happened "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "That was {it}close{/it}! We almost missed our plane."
+                                                        },
+                                                        {
+                                                            "t": "That was a {phrase}close one{/phrase}. [={it}close call, close shave{/it}]"
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ],
+                                    [
+                                        "text",
+                                        "{dx}see also {it}too close for comfort{/it} at {dxt|comfort:1||}{/dx}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "7",
+                                "dt": [
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "used to describe the people you are most directly related to (such as your parents, children, sisters, brothers, etc.) "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "She had no {it}close{/it} relatives nearby."
+                                                        },
+                                                        {
+                                                            "t": "We're only inviting {it}close{/it} family members to our wedding."
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ],
+                                    [
+                                        "text",
+                                        "{dx}compare {dxt|distant||}{/dx}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "8",
+                                "dt": [
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "used to describe people who know each other very well and care about each other very much "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "They were {it}close{/it} friends in high school, but they've since grown apart."
+                                                        },
+                                                        {
+                                                            "t": "My sister and I have always been very {it}close{/it}."
+                                                        },
+                                                        {
+                                                            "t": "We have a very {it}close{/it} relationship."
+                                                        }
+                                                    ]
+                                                ]
+                                            ],
+                                            [
+                                                [
+                                                    "text",
+                                                    "often + {it}to{/it} "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "We've always felt very {it}close to{/it} each other."
+                                                        },
+                                                        {
+                                                            "t": "He's very {it}close to{/it} his grandparents."
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "9",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}connected in a direct way "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Sources {it}close{/it} to the president say that he is willing to make a deal."
+                                            },
+                                            {
+                                                "t": "She stays in {it}close{/it} touch/contact with her friends back home."
+                                            },
+                                            {
+                                                "t": "Authorities claim he has {it}close{/it} ties to terrorist organizations."
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "sometimes used figuratively "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "This idea lies {it}close{/it} to the heart of Democracy. [=it has an important connection to Democracy]"
+                                                        },
+                                                        {
+                                                            "t": "Animal rights is a cause that is {phrase}close to my heart{/phrase}. [=I care very much about animal rights]"
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "10",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}very careful, complete, or precise "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "It's important to pay {it}close{/it} attention to the details."
+                                            },
+                                            {
+                                                "t": "Take a {it}closer{/it} look at the evidence."
+                                            },
+                                            {
+                                                "t": "On {it}closer{/it} examination, it appeared that something was missing."
+                                            },
+                                            {
+                                                "t": "We worked under the {it}close{/it} supervision of a trained professional."
+                                            },
+                                            {
+                                                "t": "a {it}close{/it} study of the Greek classics"
+                                            },
+                                            {
+                                                "t": "a {it}close{/it} reading of a text"
+                                            },
+                                            {
+                                                "t": "Keep (a) {phrase}close watch{/phrase} on the baby. = Keep a {phrase}close eye{/phrase} on the baby. [=watch the baby closely]"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "11",
+                                "dt": [
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "used to describe a race, contest, game, etc., in which one person, group, or team defeats the other or is leading the other by only a small amount "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "That was a {it}close{/it} game. We only beat them by one point."
+                                                        },
+                                                        {
+                                                            "t": "It was the {it}closest{/it} election in recent history."
+                                                        },
+                                                        {
+                                                            "t": "a {it}close{/it} race"
+                                                        },
+                                                        {
+                                                            "t": "At this point, the election is {phrase}too close to call{/phrase}. [=it is not clear who will win]"
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ],
+                                    [
+                                        "snote",
+                                        [
+                                            [
+                                                "t",
+                                                "When you are {phrase}a close second{/phrase}, there is a small difference between you and the winner."
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "Vanilla is the most popular flavor while chocolate is/finishes/runs {it}a close second{/it}."
+                                                    },
+                                                    {
+                                                        "t": "She won the race while her teammate came in {it}a close second{/it}. [=her teammate finished soon after her]"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "12",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}very short or near to the skin "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a {it}close{/it} haircut/shave"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "13",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}fitting tightly {bc}having no extra space "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "I think there's enough room in the car for all of us, but it'll be a {it}close{/it} [={it}tight{/it}] fit."
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "text",
+                                        "{dx}see also {dxt|close-fitting||}{/dx}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "14",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}warm in an uncomfortable way {bc}not having enough fresh air "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "It's very {it}close{/it} in here: let's open a window."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "close*ly",
+                "fl": "adverb",
+                "gram": "more ~; most ~",
+                "utxt": [
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "Don't drive too {it}closely{/it} behind the car in front of you."
+                            },
+                            {
+                                "t": "The houses on our street are crowded very {it}closely{/it} together."
+                            },
+                            {
+                                "t": "She {it}closely{/it} resembles her mother."
+                            },
+                            {
+                                "t": "The suspects were watched {it}closely{/it} by the police."
+                            },
+                            {
+                                "t": "We've been studying their behavior very {it}closely{/it}."
+                            },
+                            {
+                                "t": "{it}closely{/it} related family members"
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "ure": "close*ness",
+                "fl": "noun",
+                "gram": "noncount",
+                "utxt": [
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "the {it}closeness{/it} of the election results"
+                            },
+                            {
+                                "t": "the {it}closeness{/it} felt by a parent and child"
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "dros": [
+            {
+                "drp": "close to home",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "snote",
+                                                [
+                                                    [
+                                                        "t",
+                                                        "If something is {it}close to home{/it}, it affects you in a strong and personal way."
+                                                    ],
+                                                    [
+                                                        "vis",
+                                                        [
+                                                            {
+                                                                "t": "I'm a teacher, so their criticisms of our educational system hit {it}close to home{/it}."
+                                                            },
+                                                            {
+                                                                "t": "People are usually not concerned about crime until it comes {it}close to home{/it}. [=until it affects them directly]"
+                                                            }
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "close to the bone",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "snote",
+                                                [
+                                                    [
+                                                        "t",
+                                                        "If something is {it}close to the bone{/it}, it is very honest and deals with sensitive issues that can shock people or hurt their feelings."
+                                                    ],
+                                                    [
+                                                        "vis",
+                                                        [
+                                                            {
+                                                                "t": "His joke about racism in America cut pretty {it}close to the bone{/it}."
+                                                            }
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "close to the edge",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{dx}see {dxt|edge:1||}{/dx}"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "close to the mark",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{dx}see {dxt|mark:1||}{/dx}"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "close to your chest",
+                "vrs": [
+                    {
+                        "vl": "or US",
+                        "va": "close to the vest"
+                    }
+                ],
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "snote",
+                                                [
+                                                    [
+                                                        "t",
+                                                        "If you hold, keep, or play something {it}close to your chest{/it} or {it}close to the vest{/it}, you do not tell other people about it."
+                                                    ],
+                                                    [
+                                                        "vis",
+                                                        [
+                                                            {
+                                                                "t": "It's better to hold such information {it}close to the vest{/it}."
+                                                            },
+                                                            {
+                                                                "t": "She tends to keep her opinions {it}close to her chest{/it}."
+                                                            }
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ],
+        "shortdef": [
+            "near in space : not far away or distant \u2014often + to",
+            "near in time \u2014often + to",
+            "very similar : almost the same \u2014often + to"
+        ]
+    },
+    {
+        "meta": {
+            "id": "close:3",
+            "uuid": "c91117ea-918a-451b-9274-e09bdeea82dc",
+            "src": "learners",
+            "section": "alpha",
+            "target": {
+                "tuuid": "5eee37d8-cb73-4b8b-8ec4-c58157c7b24e",
+                "tsrc": "collegiate"
+            },
+            "highlight": "yes",
+            "stems": [
+                "close",
+                "closer",
+                "closest",
+                "close at hand",
+                "close by",
+                "close on",
+                "close to",
+                "close up",
+                "up close",
+                "come close",
+                "cut it close",
+                "close behind",
+                "close together"
+            ],
+            "app-shortdef": {
+                "hw": "close:3",
+                "fl": "adverb",
+                "def": [
+                    "{bc} at or to a short distance or time away"
+                ]
+            },
+            "offensive": false
+        },
+        "hom": 3,
+        "hwi": {
+            "hw": "close",
+            "prs": [
+                {
+                    "ipa": "\u02c8klo\u028as",
+                    "sound": {
+                        "audio": "close002"
+                    }
+                }
+            ]
+        },
+        "fl": "adverb",
+        "ins": [
+            {
+                "if": "clos*er"
+            },
+            {
+                "ifc": "-est",
+                "if": "clos*est"
+            }
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}at or to a short distance or time away "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Don't drive so {it}close{/it} to the car in front of you."
+                                            },
+                                            {
+                                                "t": "He told me to stay/keep {it}close{/it} as we walked through the crowd."
+                                            },
+                                            {
+                                                "t": "Come {it}close{/it}, everyone."
+                                            },
+                                            {
+                                                "t": "Look {it}close{/it} [={it}closely{/it}] and tell me what you see."
+                                            },
+                                            {
+                                                "t": "She drew me {it}close{/it} (to her) and held me."
+                                            },
+                                            {
+                                                "t": "The time for a decision is drawing {it}closer{/it}."
+                                            },
+                                            {
+                                                "t": "My teammate came in third, and I finished {phrase}close behind{/phrase}."
+                                            },
+                                            {
+                                                "t": "They sat {phrase}close together{/phrase} at the dinner table."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "dros": [
+            {
+                "drp": "close at hand",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}near in time or place "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "I always keep a few tissues {it}close at hand{/it} [=near me] just in case."
+                                                    },
+                                                    {
+                                                        "t": "The time for us to leave was {it}close at hand{/it}."
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "close by",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}at a short distance away "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "Don't worry: if anything happens I'll be (standing) {it}close by{/it} (you)."
+                                                    },
+                                                    {
+                                                        "t": "They're building a school {it}close by{/it}."
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "close on",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sls": [
+                                            "British"
+                                        ],
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}almost or nearly "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "We walked for {it}close on{/it} [={it}close to{/it}] five miles."
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "close to",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "1",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}almost or nearly "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "They spent {it}close to{/it} half a million dollars on the project."
+                                                    },
+                                                    {
+                                                        "t": "Our company employs {it}close to{/it} a thousand workers."
+                                                    },
+                                                    {
+                                                        "t": "I haven't seen her in {it}close to{/it} a year."
+                                                    },
+                                                    {
+                                                        "t": "I sat there for {it}close to{/it} an hour."
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ],
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "2",
+                                        "sls": [
+                                            "British"
+                                        ],
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}from a short distance "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "She's even more beautiful when seen {it}close to{/it}. [={it}close up{/it}]"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "close up",
+                "vrs": [
+                    {
+                        "vl": "or",
+                        "va": "up close"
+                    }
+                ],
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}from a short distance {bc}at close range "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "You have to look at the painting {it}close up{/it} to really appreciate its detail."
+                                                    },
+                                                    {
+                                                        "t": "It looks very different {it}up close{/it}."
+                                                    }
+                                                ]
+                                            ],
+                                            [
+                                                "text",
+                                                "{dx}see also {dxt|close-up||}{/dx}"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "come close",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "1",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to almost do something "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "We didn't win, but we {it}came close{/it}."
+                                                    }
+                                                ]
+                                            ],
+                                            [
+                                                "uns",
+                                                [
+                                                    [
+                                                        [
+                                                            "text",
+                                                            "often + {it}to{/it} "
+                                                        ],
+                                                        [
+                                                            "vis",
+                                                            [
+                                                                {
+                                                                    "t": "The band {it}came{/it} very {it}close to{/it} breaking up."
+                                                                },
+                                                                {
+                                                                    "t": "We {it}came close to{/it} winning the championship this season."
+                                                                }
+                                                            ]
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ],
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "2",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to be similar to something or as good as expected "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "She said they taste just like real hot dogs, but they don't even {it}come close{/it} (to the real thing)."
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "cut it close",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{dx}see {dxt|cut:1||}{/dx}"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ],
+        "shortdef": [
+            "at or to a short distance or time away"
+        ]
+    },
+    {
+        "meta": {
+            "id": "close:4",
+            "uuid": "5e7486bf-1c81-4a78-bb4f-71e3173ead85",
+            "src": "learners",
+            "section": "alpha",
+            "stems": [
+                "close",
+                "closes",
+                "drew to a close",
+                "coming to a close",
+                "brought",
+                "to a close"
+            ],
+            "app-shortdef": {
+                "hw": "close:4",
+                "fl": "noun",
+                "def": [
+                    "{it}formal{/it} {bc} the end of an activity or a period of time"
+                ]
+            },
+            "offensive": false
+        },
+        "hom": 4,
+        "hwi": {
+            "hw": "close",
+            "prs": [
+                {
+                    "ipa": "\u02c8klo\u028az",
+                    "sound": {
+                        "audio": "close001"
+                    }
+                }
+            ]
+        },
+        "fl": "noun",
+        "gram": "singular",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sls": [
+                                    "formal"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the end of an activity or a period of time "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Students vote for their favorite teacher at the {it}close{/it} of each year."
+                                            },
+                                            {
+                                                "t": "At the {it}close{/it} of trading, the stock market was two percent lower than yesterday."
+                                            },
+                                            {
+                                                "t": "As the year {phrase}drew to a close{/phrase}, the debate over the new project grew more intense."
+                                            },
+                                            {
+                                                "t": "The war finally appears to be {phrase}coming to a close{/phrase}."
+                                            },
+                                            {
+                                                "t": "She {phrase}brought{/phrase} the show {phrase}to a close{/phrase} with a performance of her most famous song."
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "text",
+                                        "{dx}see also {dxt|complimentary close||}{/dx}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "dxnls": [
+            "compare {dxt|close:5||}"
+        ],
+        "shortdef": [
+            "the end of an activity or a period of time"
+        ]
+    },
+    {
+        "meta": {
+            "id": "close:5",
+            "uuid": "2f7853e2-f545-4d38-99ad-a75e1c4d4cdf",
+            "src": "learners",
+            "section": "alpha",
+            "stems": [
+                "close",
+                "closes"
+            ],
+            "app-shortdef": {
+                "hw": "close:5",
+                "fl": "noun",
+                "def": [
+                    "{bc} the area and buildings that are around a cathedral",
+                    "{bc} a road that is closed at one end"
+                ]
+            },
+            "offensive": false
+        },
+        "hom": 5,
+        "hwi": {
+            "hw": "close",
+            "prs": [
+                {
+                    "ipa": "\u02c8klo\u028as"
+                }
+            ]
+        },
+        "fl": "noun",
+        "ins": [
+            {
+                "il": "plural",
+                "if": "clos*es"
+            }
+        ],
+        "gram": "count",
+        "def": [
+            {
+                "sls": [
+                    "British"
+                ],
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the area and buildings that are around a cathedral "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a cathedral {it}close{/it}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a road that is closed at one end"
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "used in street names "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "Turn into Bloomhill {it}Close{/it}."
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "dxnls": [
+            "compare {dxt|close:4||}"
+        ],
+        "shortdef": [
+            "the area and buildings that are around a cathedral",
+            "a road that is closed at one end\u2014used in street names"
+        ]
+    },
+    {
+        "meta": {
+            "id": "close call",
+            "uuid": "30d01b21-ac37-4d38-b420-f5e907fbdf27",
+            "src": "learners",
+            "section": "alpha",
+            "target": {
+                "tuuid": "4aa4f408-143e-4126-8364-b1a620634359",
+                "tsrc": "collegiate"
+            },
+            "stems": [
+                "close call",
+                "close calls",
+                "close shave"
+            ],
+            "app-shortdef": {
+                "hw": "close call",
+                "fl": "noun",
+                "def": [
+                    "{bc} an escape that was almost not successful"
+                ]
+            },
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "close call",
+            "prs": [
+                {
+                    "ipa": "\u02c8klo\u028as-",
+                    "sound": {
+                        "audio": "close_03"
+                    }
+                }
+            ]
+        },
+        "fl": "noun",
+        "ins": [
+            {
+                "il": "plural",
+                "ifc": "~ calls",
+                "if": "close calls"
+            }
+        ],
+        "gram": "count",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}an escape that was almost not successful "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "We nearly didn't get out of the burning building. It was a pretty {it}close call{/it}, let me tell you!"
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "ca",
+                                        {
+                                            "intro": "called also",
+                                            "cats": [
+                                                {
+                                                    "cat": "close shave"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "an escape that was almost not successful \u2014called also close shave"
+        ]
+    },
+    {
+        "meta": {
+            "id": "close-cropped",
+            "uuid": "dc9887de-4140-4b0c-850f-f0db10a77653",
+            "src": "learners",
+            "section": "alpha",
+            "target": {
+                "tuuid": "f1bc611c-fcb9-4a96-9f7b-af10b99ee224",
+                "tsrc": "collegiate"
+            },
+            "stems": [
+                "close-cropped"
+            ],
+            "app-shortdef": {
+                "hw": "close-cropped",
+                "fl": "adjective",
+                "def": [
+                    "{bc} cut very short"
+                ]
+            },
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "close-cropped",
+            "prs": [
+                {
+                    "ipa": "\u02c8klo\u028as\u02cckr\u0251\u02d0pt",
+                    "sound": {
+                        "audio": "close_05"
+                    }
+                }
+            ]
+        },
+        "fl": "adjective",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}cut very short "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "his {it}close-cropped{/it} hair"
+                                            },
+                                            {
+                                                "t": "the {it}close-cropped{/it} grass of the golf course"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "cut very short"
+        ]
+    },
+    {
+        "meta": {
+            "id": "close-fitting",
+            "uuid": "6f11bc5a-bc57-49a0-8ce1-a0a8f377d6c4",
+            "src": "learners",
+            "section": "alpha",
+            "stems": [
+                "close-fitting"
+            ],
+            "app-shortdef": {
+                "hw": "close-fitting",
+                "fl": "adjective",
+                "def": [
+                    "{it}of clothes{/it} {bc} fitting tightly to the body {bc} not baggy or loose"
+                ]
+            },
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "close-fit*ting",
+            "prs": [
+                {
+                    "ipa": "\u02c8klo\u028as\u02c8f\u026at\u026a\u014b",
+                    "sound": {
+                        "audio": "close03ld"
+                    }
+                }
+            ]
+        },
+        "fl": "adjective",
+        "gram": "more ~; most ~",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sls": [
+                                    "of clothes"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}fitting tightly to the body {bc}not baggy or loose "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a {it}close-fitting{/it} pair of pants"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "fitting tightly to the body : not baggy or loose"
+        ]
+    },
+    {
+        "meta": {
+            "id": "close-knit",
+            "uuid": "2613ec9e-1106-4733-b32d-b3204ab65a2f",
+            "src": "learners",
+            "section": "alpha",
+            "target": {
+                "tuuid": "2fbce030-b167-4bfc-bc88-04607e96fff0",
+                "tsrc": "collegiate"
+            },
+            "stems": [
+                "close-knit"
+            ],
+            "app-shortdef": {
+                "hw": "close-knit",
+                "fl": "adjective",
+                "def": [
+                    "used to describe a group of people who care about each other and who are very friendly with each other"
+                ]
+            },
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "close-knit",
+            "prs": [
+                {
+                    "ipa": "\u02c8klo\u028as\u02c8n\u026at",
+                    "sound": {
+                        "audio": "close_10"
+                    }
+                }
+            ]
+        },
+        "fl": "adjective",
+        "gram": "more ~; most ~",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "used to describe a group of people who care about each other and who are very friendly with each other "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "a {it}close-knit{/it} family"
+                                                        },
+                                                        {
+                                                            "t": "{it}close-knit{/it} communities/towns"
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "\u2014used to describe a group of people who care about each other and who are very friendly with each other"
+        ]
+    },
+    {
+        "meta": {
+            "id": "close-minded",
+            "uuid": "aafdc343-664e-4f4c-be11-1d207a3c891c",
+            "src": "learners",
+            "section": "alpha",
+            "stems": [
+                "close-minded"
+            ],
+            "app-shortdef": {
+                "hw": "close-minded",
+                "fl": "adjective",
+                "def": [
+                    "{it}US{/it}"
+                ]
+            },
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "close-mind*ed",
+            "prs": [
+                {
+                    "ipa": "\u02c8klo\u028az\u02c8ma\u026and\u0259d",
+                    "sound": {
+                        "audio": "close04ld"
+                    }
+                }
+            ]
+        },
+        "fl": "adjective",
+        "gram": "more ~; most ~",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sls": [
+                                    "US"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|closed-minded||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}close-minded{/it} people"
+                                            },
+                                            {
+                                                "t": "a very {it}close-minded{/it} attitude"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "closed-minded"
         ]
     }
 ]

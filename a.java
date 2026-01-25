@@ -1,22 +1,25 @@
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
 class Solution {
-    public int myAtoi(String s) {
+    public List<List<Integer>> threeSum(int[] nums) {
+        Arrays.sort(nums);
+        List<List<Integer>> list = new ArrayList<>();
         
-    }
+        //case no negative or positive numbers
+        // x + y + z = 0 --> x + y = -z we need to have positive and negative numbers togather
+        if(nums[0] >= 0 || nums[nums.length-1] <= 0){
+            return list;
+        }
 
+        for (int i = 0; i < nums.length; i++) {
+            //the rest are all negative numbers
+            if(nums[i] < 0)
+            
 
-    public int getDigit(char c){
-        switch(c){
-            case '0': return 0;
-            case '1': return 1;
-            case '2': return 2;
-            case '3': return 3;
-            case '4': return 4;
-            case '5': return 5;
-            case '6': return 6;
-            case '7': return 7;
-            case '8': return 8;
-            case '9': return 9;
-            default:  return 0;
+            int left  = i + 1;
+            int right = nums.length - 1;
         }
     }
 }
