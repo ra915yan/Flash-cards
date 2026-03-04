@@ -1,4 +1,3754 @@
-Hello	back
-World	back
-new 	back
-hey	back
+[
+    {
+        "meta": {
+            "id": "led",
+            "uuid": "88001e8c-31a1-4606-a2ee-07c198d39f0f",
+            "src": "learners",
+            "section": "alpha",
+            "target": {
+                "tuuid": "a720fa70-eb7a-4486-b3a0-f839d5dbd957",
+                "tsrc": "collegiate"
+            },
+            "stems": [
+                "led",
+                "lead"
+            ],
+            "app-shortdef": null,
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "led"
+        },
+        "cxs": [
+            {
+                "cxl": "past tense and past participle of",
+                "cxtis": [
+                    {
+                        "cxt": "lead:1"
+                    }
+                ]
+            }
+        ],
+        "shortdef": []
+    },
+    {
+        "meta": {
+            "id": "LED",
+            "uuid": "c3218874-774c-436c-aff1-a90108609b64",
+            "src": "learners",
+            "section": "alpha",
+            "target": {
+                "tuuid": "a4238f0a-2f7e-45a2-8d7b-ead630b65480",
+                "tsrc": "collegiate"
+            },
+            "stems": [
+                "led",
+                "leds"
+            ],
+            "app-shortdef": {
+                "hw": "LED",
+                "fl": "noun",
+                "def": [
+                    "{it}technical{/it} {bc} a device that lights up and displays information when electricity passes through it"
+                ]
+            },
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "LED",
+            "prs": [
+                {
+                    "ipa": "\u02cc\u025bl\u02cci\u02d0\u02c8di\u02d0",
+                    "sound": {
+                        "audio": "led00001"
+                    }
+                }
+            ]
+        },
+        "fl": "noun",
+        "ins": [
+            {
+                "il": "plural",
+                "if": "LEDs"
+            }
+        ],
+        "gram": "count",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sls": [
+                                    "technical"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a device that lights up and displays information when electricity passes through it "
+                                    ],
+                                    [
+                                        "snote",
+                                        [
+                                            [
+                                                "t",
+                                                "LEDs are often used to show numbers and words on electronic devices such as digital clocks. {it}LED{/it} is an abbreviation of {ldquo}light-emitting diode.{rdquo}"
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "a device that lights up and displays information when electricity passes through it"
+        ]
+    },
+    {
+        "meta": {
+            "id": "lead:1",
+            "uuid": "0ad29067-3bc3-4756-90b2-09a2c4220e76",
+            "src": "learners",
+            "section": "alpha",
+            "highlight": "yes",
+            "stems": [
+                "lead",
+                "leaded",
+                "leading",
+                "leads",
+                "led",
+                "lead off",
+                "lead on",
+                "lead someone a merry chase",
+                "lead someone a (merry) dance",
+                "lead someone a dance",
+                "lead someone a merry dance",
+                "lead someone (around) by the nose",
+                "lead someone around by the nose",
+                "lead someone by the nose",
+                "lead someone down/up the garden path",
+                "lead someone down the garden path",
+                "lead someone up the garden path",
+                "lead the way",
+                "lead to",
+                "lead up to",
+                "lead with",
+                "the blind leading the blind",
+                "led off",
+                "leads the/your eye",
+                "leads the eye",
+                "leads your eye",
+                "leading nowhere",
+                "lead by example",
+                "leading the pack/field",
+                "leading the field",
+                "leading the pack",
+                "leads the world",
+                "leading a double life",
+                "led a charmed life",
+                "lead her own life"
+            ],
+            "app-shortdef": {
+                "hw": "lead:1",
+                "fl": "verb",
+                "def": [
+                    "{bc} to guide someone to a place especially by going in front",
+                    "{bc} to go or be at the front part of (something)",
+                    "{bc} to lie or go in a specified direction"
+                ]
+            },
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "lead",
+            "prs": [
+                {
+                    "ipa": "\u02c8li\u02d0d",
+                    "sound": {
+                        "audio": "lead0001"
+                    }
+                }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "leads"
+            },
+            {
+                "if": "led",
+                "prs": [
+                    {
+                        "ipa": "\u02c8l\u025bd",
+                        "sound": {
+                            "audio": "lead0002"
+                        }
+                    }
+                ]
+            },
+            {
+                "if": "lead*ing"
+            }
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to guide someone to a place especially by going in front "
+                                    ],
+                                    [
+                                        "wsgram",
+                                        "no obj"
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "You {it}lead{/it} and we'll follow right behind you."
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "wsgram",
+                                        "+ obj"
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "He {it}led{/it} [={it}took{/it}] me into a room in the back of the house."
+                                            },
+                                            {
+                                                "t": "You {it}lead{/it} us and we'll follow right behind you."
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "often + {it}to{/it} "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "The teacher {it}led{/it} the child by the hand {it}to{/it} his seat. = The teacher took the child's hand and {it}led{/it} him {it}to{/it} his seat."
+                                                        },
+                                                        {
+                                                            "t": "Our hostess {it}led{/it} us {it}to{/it} the dinner table."
+                                                        }
+                                                    ]
+                                                ]
+                                            ],
+                                            [
+                                                [
+                                                    "text",
+                                                    "often used as {it}(be) led{/it} "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "The passengers {it}were led{/it} onto/aboard the ship by the steward."
+                                                        },
+                                                        {
+                                                            "t": "The prisoner {it}was{/it} {phrase}led off{/phrase} to jail [=was taken to jail] in handcuffs."
+                                                        }
+                                                    ]
+                                                ]
+                                            ],
+                                            [
+                                                [
+                                                    "text",
+                                                    "often used figuratively "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "I gradually {it}led{/it} the interview around/back to the subject of his failed marriage."
+                                                        },
+                                                        {
+                                                            "t": "He says that he will follow the evidence wherever it {it}leads{/it} (him)."
+                                                        },
+                                                        {
+                                                            "t": "This {it}leads{/it} me to my next point, which is that the building needs a new roof."
+                                                        },
+                                                        {
+                                                            "t": "The painting's composition {phrase}leads the/your eye{/phrase} to the figures in the foreground. [=causes you to look at the figures in the foreground]"
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "sgram": "+ obj",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to go or be at the front part of (something) "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The veterans will {it}lead{/it} a parade down Main Street."
+                                            },
+                                            {
+                                                "t": "{it}lead{/it} a march"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "sgram": "no obj",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to lie or go in a specified direction "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The path {it}leads{/it} uphill."
+                                            },
+                                            {
+                                                "t": "This road doesn't {it}lead{/it} to the village as we thought it did."
+                                            },
+                                            {
+                                                "t": "a set of stairs that {it}leads{/it} down to the basement"
+                                            },
+                                            {
+                                                "t": "There was a path {it}leading{/it} (off) from the meadow into the woods."
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "often used figuratively "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "She realized that their relationship would never {it}lead{/it} to marriage."
+                                                        },
+                                                        {
+                                                            "t": "The investigation into the murder was {phrase}leading nowhere{/phrase}. [=the investigation was not solving the crime]"
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to guide the actions of a person or group {bc}to be in charge of a person, group, activity, etc. "
+                                    ],
+                                    [
+                                        "wsgram",
+                                        "no obj"
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "We need to elect someone who can {it}lead{/it}."
+                                            },
+                                            {
+                                                "t": "bosses who {phrase}lead by example{/phrase} [=who show employees how they should act by acting that way themselves]"
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "wsgram",
+                                        "+ obj"
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "She {it}leads{/it} her employees by setting a good example for them."
+                                            },
+                                            {
+                                                "t": "She {it}led{/it} a successful boycott of the store."
+                                            },
+                                            {
+                                                "t": "{it}lead{/it} an expedition"
+                                            },
+                                            {
+                                                "t": "A visiting professor will be {it}leading{/it} the seminar."
+                                            },
+                                            {
+                                                "t": "{it}lead{/it} [={it}direct{/it}] an orchestra"
+                                            },
+                                            {
+                                                "t": "She {it}led{/it} the children in a song. [=she sang a song and the children sang with her]"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4",
+                                "sgram": "+ obj",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to cause (a person, group, etc.) to do something or to follow some course of action "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Her interest in art {it}led{/it} her into the field of art history."
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "usually followed by {it}to{/it} or {it}to + verb{/it} "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "His volunteer work in the hospital {it}led{/it} him {it}to{/it} a career in nursing. = His volunteer work in the hospital {it}led{/it} [={it}inspired{/it}] him {it}to become{/it} a nurse."
+                                                        },
+                                                        {
+                                                            "t": "Her experience with cancer {it}led{/it} her {it}to consider{/it} writing a book on the subject."
+                                                        },
+                                                        {
+                                                            "t": "The evidence {it}leads{/it} me {it}to believe{/it} [=makes me believe] that this disease is curable."
+                                                        },
+                                                        {
+                                                            "t": "We've been {it}led to believe{/it} that the labels on food items disclose all ingredients, but it's becoming clear that this is not the case."
+                                                        },
+                                                        {
+                                                            "t": "I had been {it}led to expect{/it} that someone would meet me at the airport, but no one came."
+                                                        },
+                                                        {
+                                                            "t": "He {it}led me to understand{/it} [=he told me or caused me to think] that the deadline was January 7."
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "5",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to be first, best, or ahead in a race or competition "
+                                    ],
+                                    [
+                                        "wsgram",
+                                        "no obj"
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "the team that is currently {it}leading{/it} in the pennant race"
+                                            },
+                                            {
+                                                "t": "At the end of the fourth inning, the Red Sox {it}led{/it} by two runs."
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "wsgram",
+                                        "+ obj"
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}lead{/it} a race"
+                                            },
+                                            {
+                                                "t": "They {it}led{/it} their opponents by 20 points at the end of the third quarter."
+                                            },
+                                            {
+                                                "t": "the team that is {it}leading{/it} the league [=the team that is in first place]"
+                                            },
+                                            {
+                                                "t": "a batter who {it}leads{/it} the league in home runs [=who has hit more home runs than any other batter]"
+                                            },
+                                            {
+                                                "t": "a runner who is {phrase}leading the pack/field{/phrase} [=a runner who is ahead of the group of other runners]"
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "often used figuratively "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "Their company {phrase}leads the world{/phrase} [=is the most successful company in the world] in developing new technology to assist people with disabilities."
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "6",
+                                "sgram": "+ obj",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to go through (life) in a certain way {bc}to have (a specified kind of life) "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "They chose to {it}lead{/it} [={it}live{/it}] a quiet life."
+                                            },
+                                            {
+                                                "t": "He {it}leads{/it} a peaceful existence."
+                                            },
+                                            {
+                                                "t": "It turned out that he had been {phrase}leading a double life{/phrase}. [=deceiving people about his life, not telling the whole truth about his life]"
+                                            },
+                                            {
+                                                "t": "He has always {phrase}led a charmed life{/phrase}. [=he has always been lucky]"
+                                            },
+                                            {
+                                                "t": "She needs to {phrase}lead her own life{/phrase}. [=she needs to make her own decisions about her life]"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "7",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to begin play in a card game with (a certain card or kind of card) "
+                                    ],
+                                    [
+                                        "wsgram",
+                                        "+ obj"
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}lead{/it} trumps"
+                                            },
+                                            {
+                                                "t": "{it}led{/it} a spade"
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "wsgram",
+                                        "no obj"
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}lead{/it} with a spade"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "8",
+                                "sgram": "no obj",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to guide a dance partner through the steps of a dance "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "I don't know this dance, so I'd prefer it if you {it}lead{/it}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "9",
+                                "sgram": "+ obj",
+                                "sls": [
+                                    "law"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to ask (a witness) a question in a way that suggests what the answer should be {bc}to ask (a witness) a leading question "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The judge ruled that the lawyer was {it}leading{/it} the witness."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "dros": [
+            {
+                "drp": "lead off",
+                "gram": "phrasal verb",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sphrasev": {
+                                            "phrs": [
+                                                {
+                                                    "pva": "lead off"
+                                                },
+                                                {
+                                                    "pvl": "or",
+                                                    "pva": "lead (something) off"
+                                                },
+                                                {
+                                                    "pvl": "or",
+                                                    "pva": "lead off (something)"
+                                                }
+                                            ]
+                                        },
+                                        "sn": "1",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to start something (such as an activity or performance) in a specified way "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "She {it}led off{/it} [={it}started, kicked off{/it}] the presentation with a brief overview of the project."
+                                                    },
+                                                    {
+                                                        "t": "She {it}led off{/it} [={it}began{/it}] with a brief overview of the project."
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ],
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "2",
+                                        "sls": [
+                                            "baseball"
+                                        ],
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to be the first batter in an inning "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "He {it}led off{/it} with a walk. [=he was the first batter in his team's half of the inning and he was walked]"
+                                                    },
+                                                    {
+                                                        "t": "He {it}led off{/it} the inning with a home run."
+                                                    }
+                                                ]
+                                            ],
+                                            [
+                                                "text",
+                                                "{dx}see also {dxt|leadoff||}{/dx}"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "lead on",
+                "gram": "phrasal verb",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sphrasev": {
+                                            "phrs": [
+                                                {
+                                                    "pva": "lead (someone) on"
+                                                }
+                                            ]
+                                        },
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to cause (someone) to wrongly continue believing or doing something "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "She was devastated when she found out that he didn't really love her, and had only been {it}leading{/it} her {it}on{/it}. [=he had been leading her to believe that he loved her]"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "lead someone a merry chase",
+                "rsl": "US",
+                "vrs": [
+                    {
+                        "vl": "or British",
+                        "va": "lead someone a (merry) dance"
+                    }
+                ],
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sls": [
+                                            "old-fashioned"
+                                        ],
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to cause a series of troubles or worries for (someone) "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "He {it}led me a merry chase{/it} before I finally got him to agree to a meeting."
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "lead someone (around) by the nose",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{dx}see {dxt|nose:1||}{/dx}"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "lead someone down/up the garden path",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sls": [
+                                            "informal"
+                                        ],
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to deceive someone {bc}to cause someone to go, think, or proceed wrongly "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "He believes the average consumer is being {it}led down the garden path{/it} by the promises in advertisements."
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "lead the way",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to be the first person to go somewhere "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "You {it}lead the way{/it}, and we'll follow."
+                                                    }
+                                                ]
+                                            ],
+                                            [
+                                                "uns",
+                                                [
+                                                    [
+                                                        [
+                                                            "text",
+                                                            "often used figuratively "
+                                                        ],
+                                                        [
+                                                            "vis",
+                                                            [
+                                                                {
+                                                                    "t": "Their company {it}led the way{/it} in developing this technology. [=was the first to have success developing the technology]"
+                                                                }
+                                                            ]
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "lead to",
+                "gram": "phrasal verb",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sphrasev": {
+                                            "phrs": [
+                                                {
+                                                    "pva": "lead to (something)"
+                                                }
+                                            ]
+                                        },
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to result in (something) "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "a course of study {it}leading to{/it} a degree in agriculture"
+                                                    },
+                                                    {
+                                                        "t": "Her investigations ultimately {it}led to{/it} the discovery of the missing documents."
+                                                    },
+                                                    {
+                                                        "t": "His volunteer work in the hospital {it}led to{/it} a career in nursing. = His volunteer work in the hospital {it}led to{/it} him becoming a nurse."
+                                                    }
+                                                ]
+                                            ],
+                                            [
+                                                "text",
+                                                "{dx}see also {dxt|lead:1||1a, 4 (above)}{/dx}"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "lead up to",
+                "gram": "phrasal verb",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sphrasev": {
+                                            "phrs": [
+                                                {
+                                                    "pva": "lead up to (something)"
+                                                }
+                                            ]
+                                        },
+                                        "sn": "1",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to occur in the time that comes before (something) "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "Many voters were still undecided in the days {it}leading up to{/it} [={it}approaching{/it}] the election."
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ],
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "2",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to come before and help to cause (something) "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "There was a series of errors {it}leading up to{/it} the accident."
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ],
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "3",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to come before and help to introduce (something) "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "a chapter {it}leading up to{/it} the main topic of the book"
+                                                    },
+                                                    {
+                                                        "t": "I had no idea what he was {it}leading up to{/it} when he started talking about his father."
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "lead with",
+                "gram": "phrasal verb",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sphrasev": {
+                                            "phrs": [
+                                                {
+                                                    "pva": "lead with (something)"
+                                                }
+                                            ]
+                                        },
+                                        "sn": "1",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to begin something (such as a story or speech) with (something specified) "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "The newspaper story {it}led{/it} [={it}opened, began{/it}] {it}with{/it} a long report on the funeral."
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ],
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "2",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to begin a series of punches in boxing with (a punch thrown by a specified hand) "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "The champion {it}led with{/it} a left to the body, followed up quickly with a right to the jaw."
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "the blind leading the blind",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{dx}see {dxt|blind:1||}{/dx}"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ],
+        "shortdef": [
+            "to guide someone to a place especially by going in front \u2014often + to \u2014often used as (be) led \u2014often used figuratively",
+            "to go or be at the front part of (something)",
+            "to lie or go in a specified direction \u2014often used figuratively"
+        ]
+    },
+    {
+        "meta": {
+            "id": "altar",
+            "uuid": "1d398917-06be-4f1c-b9ea-bdef08a96c75",
+            "src": "learners",
+            "section": "alpha",
+            "target": {
+                "tuuid": "e6c286e1-8f03-4046-8fb5-6c8316121d20",
+                "tsrc": "collegiate"
+            },
+            "stems": [
+                "altar",
+                "altars",
+                "led to the altar",
+                "left at the altar",
+                "on the altar of success"
+            ],
+            "app-shortdef": {
+                "hw": "altar",
+                "fl": "noun",
+                "def": [
+                    "{bc} a raised place on which sacrifices and gifts are offered in some religions",
+                    "{bc} a platform or table used as a center of worship in Christian ceremonies and services"
+                ]
+            },
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "al*tar",
+            "prs": [
+                {
+                    "ipa": "\u02c8\u0251\u02d0lt\u025a",
+                    "sound": {
+                        "audio": "altar001"
+                    }
+                }
+            ]
+        },
+        "fl": "noun",
+        "ins": [
+            {
+                "il": "plural",
+                "ifc": "-tars",
+                "if": "al*tars"
+            }
+        ],
+        "gram": "count",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a raised place on which sacrifices and gifts are offered in some religions"
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "sometimes used figuratively "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "She sacrificed honesty {phrase}on the altar of success{/phrase}. [=she chose to be dishonest in order to achieve success]"
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a platform or table used as a center of worship in Christian ceremonies and services"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "dros": [
+            {
+                "drp": "led to the altar",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "snote",
+                                                [
+                                                    [
+                                                        "t",
+                                                        "If you are {it}led to the altar{/it}, you get married."
+                                                    ],
+                                                    [
+                                                        "vis",
+                                                        [
+                                                            {
+                                                                "t": "They started a romance that eventually {it}led{/it} (them) {it}to the altar{/it}."
+                                                            }
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "left at the altar",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "snote",
+                                                [
+                                                    [
+                                                        "t",
+                                                        "If you are {it}left at the altar{/it}, you do not get married because the person you were going to marry has decided against it at the last moment."
+                                                    ],
+                                                    [
+                                                        "vis",
+                                                        [
+                                                            {
+                                                                "t": "Her fianc\u00e9 {it}left her at the altar{/it}."
+                                                            }
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ],
+        "shortdef": [
+            "a raised place on which sacrifices and gifts are offered in some religions\u2014sometimes used figuratively",
+            "a platform or table used as a center of worship in Christian ceremonies and services"
+        ]
+    },
+    {
+        "meta": {
+            "id": "believe",
+            "uuid": "a1a5e4bf-f4e4-4c44-affa-fa3acc258ee9",
+            "src": "learners",
+            "section": "alpha",
+            "target": {
+                "tuuid": "5e669d9b-07c3-47f1-9c6a-5930aa0fe2a4",
+                "tsrc": "collegiate"
+            },
+            "highlight": "yes",
+            "stems": [
+                "believe",
+                "believes",
+                "believed",
+                "believing",
+                "believe in",
+                "can't believe your eyes/ears",
+                "can't believe your ears",
+                "can't believe your eyes",
+                "cant believe your eyes/ears",
+                "cant believe your ears",
+                "cant believe your eyes",
+                "make believe",
+                "seeing is believing",
+                "believable",
+                "believably",
+                "believer",
+                "believers",
+                "widely believed",
+                "led to believe",
+                "i believe so",
+                "so i believe",
+                "i believe not",
+                "i don't believe so",
+                "i dont believe so",
+                "you/you'd better believe it",
+                "you better believe it",
+                "you'd better believe it",
+                "you/youd better believe it",
+                "youd better believe it",
+                "believe me",
+                "believe you me",
+                "i can't believe",
+                "i cant believe",
+                "if you can believe it/that",
+                "if you can believe it",
+                "if you can believe that",
+                "can/would you believe it",
+                "can you believe it",
+                "would you believe it",
+                "you won't believe",
+                "you wont believe",
+                "you wouldn't believe",
+                "you wouldnt believe",
+                "i don't believe it",
+                "i dont believe it",
+                "i could not believe",
+                "hard to believe",
+                "believe it or not",
+                "don't you believe it",
+                "dont you believe it",
+                "if you believe that, you'll believe anything",
+                "if you believe that, youll believe anything",
+                "i'll believe that when i see it",
+                "ill believe that when i see it",
+                "made a believer out of me",
+                "made me a believer"
+            ],
+            "app-shortdef": {
+                "hw": "believe",
+                "fl": "verb",
+                "def": [
+                    "{bc} to accept or regard (something) as true",
+                    "{bc} to accept the truth of what is said by (someone)",
+                    "{bc} to have (a specified opinion)"
+                ]
+            },
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "be*lieve",
+            "prs": [
+                {
+                    "ipa": "b\u0259\u02c8li\u02d0v",
+                    "sound": {
+                        "audio": "believ04"
+                    }
+                }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "ifc": "-lieves",
+                "if": "be*lieves"
+            },
+            {
+                "ifc": "-lieved",
+                "if": "be*lieved"
+            },
+            {
+                "ifc": "-liev*ing",
+                "if": "be*liev*ing"
+            }
+        ],
+        "lbs": [
+            "not used in progressive tenses"
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sen",
+                            {
+                                "sn": "1",
+                                "sgram": "+ obj"
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to accept or regard (something) as true "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The scientists {it}believed{/it} the reports."
+                                            },
+                                            {
+                                                "t": "Many people seem to {it}believe{/it} that theory, but I find it hard/difficult to {it}believe{/it}."
+                                            },
+                                            {
+                                                "t": "You shouldn't {it}believe{/it} everything you read."
+                                            },
+                                            {
+                                                "t": "I knew that he was a liar and so I didn't {it}believe{/it} a word he said. [=I didn't believe anything he said]"
+                                            },
+                                            {
+                                                "t": "I did not want to {it}believe{/it} (that) it could happen."
+                                            },
+                                            {
+                                                "t": "He says he'll help us, but I don't {it}believe{/it} what he says."
+                                            },
+                                            {
+                                                "t": "They were tricked into {it}believing{/it} that he was a doctor."
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "text",
+                                        "{dx}opposite {dxt|disbelieve||}{/dx}"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to accept the truth of what is said by (someone) "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "He says he'll help us, but I don't {it}believe{/it} him."
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "text",
+                                        "{dx}opposite {dxt|disbelieve||}{/dx}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "sgram": "+ obj",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to have (a specified opinion) {bc}{sx|think||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "I'm beginning to {it}believe{/it} (that) this war will never end."
+                                            },
+                                            {
+                                                "t": "I used to {it}believe{/it} (that) I was the only one who felt that way but now I know (that) there are others like me."
+                                            },
+                                            {
+                                                "t": "He clearly/firmly/honestly {it}believes{/it} (that) it is possible. = He clearly/firmly/honestly {it}believes{/it} it (to be) possible."
+                                            },
+                                            {
+                                                "t": "He had reason to {it}believe{/it} that they would accept his offer. = He had reason for {it}believing{/it} that they would accept his offer."
+                                            },
+                                            {
+                                                "t": "She was {phrase}widely believed{/phrase} to be guilty. [=many people believed that she was guilty]"
+                                            },
+                                            {
+                                                "t": "We were {phrase}led to believe{/phrase} it was true. [=we heard, saw, or read something that made us think it was true]"
+                                            },
+                                            {
+                                                "t": "{ldquo}Has he accepted the job?{rdquo} {ldquo}{phrase}I believe so{/phrase}.{rdquo} = {ldquo}{phrase}So I believe{/phrase}.{rdquo}"
+                                            },
+                                            {
+                                                "t": "{ldquo}Has he accepted the job?{rdquo} {ldquo}{phrase}I believe not{/phrase}.{rdquo} = {ldquo}{phrase}I don't believe so{/phrase}.{rdquo}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "sgram": "no obj",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to regard the existence of God as a fact {bc}to have religious beliefs "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "She went to church because her family expected it, but she didn't really {it}believe{/it}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4",
+                                "sgram": "no obj",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to have trust in the ability, worth, etc., of someone or something "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The team hasn't won a championship in many years, but their fans still {it}believe{/it}. [=their fans still believe in them; their fans still believe that they will win]"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "5",
+                                "sls": [
+                                    "informal"
+                                ],
+                                "dt": [
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "used for emphasis in phrases that express certainty, surprise, annoyance, etc. "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "{ldquo}Do you think they can win?{rdquo} {ldquo}{phrase}You/You'd better believe it{/phrase}!{rdquo} [=yes, I definitely think so]"
+                                                        },
+                                                        {
+                                                            "t": "{phrase}Believe me{/phrase}, he can really play the game. = {phrase}Believe you me{/phrase}, he can really play the game."
+                                                        },
+                                                        {
+                                                            "t": "{phrase}I can't believe{/phrase} how ugly that dress is. [=what an ugly dress]"
+                                                        },
+                                                        {
+                                                            "t": "You broke the window? {phrase}I can't believe{/phrase} you guys! [=I'm annoyed and shocked by what you did] How could you do such a thing?"
+                                                        },
+                                                        {
+                                                            "t": "{phrase}I can't believe{/phrase} [=I am amazed/surprised] that that terrible restaurant is still in business."
+                                                        },
+                                                        {
+                                                            "t": "That terrible restaurant is still in business, {phrase}if you can believe it/that{/phrase}."
+                                                        },
+                                                        {
+                                                            "t": "{phrase}Can/Would you believe it{/phrase}?! That terrible restaurant is still in business."
+                                                        },
+                                                        {
+                                                            "t": "{phrase}You won't believe{/phrase} what I just heard! [=you will be very surprised by what I just heard]"
+                                                        },
+                                                        {
+                                                            "t": "{phrase}You wouldn't believe{/phrase} how long it took us to get here. [=it took us a surprisingly long/short time to get here]"
+                                                        },
+                                                        {
+                                                            "t": "{phrase}I don't believe it{/phrase}! I swept the floor 10 minutes ago, and it's already dirty again!"
+                                                        },
+                                                        {
+                                                            "t": "{phrase}I could not believe{/phrase} my good fortune/luck."
+                                                        },
+                                                        {
+                                                            "t": "It's {phrase}hard to believe{/phrase} that he's gone."
+                                                        },
+                                                        {
+                                                            "t": "His latest movie, {phrase}believe it or not{/phrase}, is a romantic comedy about a group of lawyers. [=it is surprising but true that his latest movie is a romantic comedy about a group of lawyers]"
+                                                        },
+                                                        {
+                                                            "t": "{ldquo}I hear that their marriage is in trouble.{rdquo} {ldquo}{phrase}Don't you believe it{/phrase}! [=that is completely untrue] They're the happiest couple I know!{rdquo}"
+                                                        },
+                                                        {
+                                                            "t": "{ldquo}He says he's going to become a doctor.{rdquo} {ldquo}{phrase}If you believe that, you'll believe anything{/phrase}!{rdquo} [=it would be very foolish to believe that he is going to become a doctor]"
+                                                        },
+                                                        {
+                                                            "t": "{ldquo}He says he's going to become a doctor.{rdquo} {ldquo}{phrase}I'll believe that when I see it{/phrase}!{rdquo}"
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "be*liev*able",
+                "prs": [
+                    {
+                        "ipa": "b\u0259\u02c8li\u02d0v\u0259b\u0259l",
+                        "sound": {
+                            "audio": "believ01"
+                        }
+                    }
+                ],
+                "fl": "adjective",
+                "gram": "more ~; most ~",
+                "utxt": [
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "The novel's ending is not very {it}believable{/it}."
+                            },
+                            {
+                                "t": "His excuse was barely/scarcely {it}believable{/it}."
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "ure": "be*liev*ably",
+                "prs": [
+                    {
+                        "ipa": "b\u0259\u02c8li\u02d0v\u0259bli",
+                        "sound": {
+                            "audio": "believ03"
+                        }
+                    }
+                ],
+                "fl": "adverb",
+                "utxt": [
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "The characters are all {it}believably{/it} portrayed."
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "ure": "be*liev*er",
+                "fl": "noun",
+                "ins": [
+                    {
+                        "il": "plural",
+                        "ifc": "-ers",
+                        "if": "be*liev*ers"
+                    }
+                ],
+                "gram": "count",
+                "utxt": [
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "a {it}believer{/it} in religion"
+                            },
+                            {
+                                "t": "devout {it}believers{/it}"
+                            },
+                            {
+                                "t": "She's a firm/great/strong {it}believer{/it} in adult education. [=she firmly/strongly believes in the value of adult education; she thinks adult education is very useful and important]"
+                            },
+                            {
+                                "t": "I was doubtful that he could run his own company, but he's {phrase}made a believer out of me{/phrase}. = He's {phrase}made me a believer{/phrase}. [=he's convinced me that he can run his own company]"
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "dros": [
+            {
+                "drp": "believe in",
+                "gram": "phrasal verb",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sen",
+                                    {
+                                        "sn": "1",
+                                        "phrasev": [
+                                            {
+                                                "pva": "believe in (something)"
+                                            }
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "a",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to have faith or confidence in the existence of (something) "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "Do you {it}believe in{/it} ghosts?"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "b",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to have trust in the goodness or value of (something) "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "She {it}believes in{/it} (the value of) regular exercise."
+                                                    },
+                                                    {
+                                                        "t": "They {it}believed in{/it} liberty for all."
+                                                    },
+                                                    {
+                                                        "t": "I {it}believe in{/it} working hard to achieve success."
+                                                    },
+                                                    {
+                                                        "t": "She doesn't {it}believe in{/it} using pesticides. [=she doesn't believe that it's right to use pesticides; she believes that pesticides do more harm than good]"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ],
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "2",
+                                        "phrasev": [
+                                            {
+                                                "pva": "believe in (someone)"
+                                            }
+                                        ],
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to have trust in the goodness or ability of (someone) "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "Despite his problems, his parents still {it}believe in{/it} him."
+                                                    },
+                                                    {
+                                                        "t": "She {it}believes in{/it} herself and in her abilities."
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "can't believe your eyes/ears",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "snote",
+                                                [
+                                                    [
+                                                        "t",
+                                                        "If you {it}can't believe your eyes/ears{/it} or {it}can hardly/scarcely believe your eyes/ears{/it}, you are very surprised at or upset by what you are seeing or hearing."
+                                                    ],
+                                                    [
+                                                        "vis",
+                                                        [
+                                                            {
+                                                                "t": "I {it}could hardly believe my eyes{/it} when I saw what he was wearing."
+                                                            }
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "make believe",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to act as though something that is not true or real is true or real {bc}{sx|pretend||} "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "When we were children we used to {it}make believe{/it} (that) we were soldiers fighting in a war."
+                                                    },
+                                                    {
+                                                        "t": "He isn't really angry, he's just {it}making believe{/it} (that he is)."
+                                                    },
+                                                    {
+                                                        "t": "They want to {it}make believe{/it} that everything is all right."
+                                                    }
+                                                ]
+                                            ],
+                                            [
+                                                "text",
+                                                "{dx}see also {dxt|make-believe||}{/dx}"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "seeing is believing",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "snote",
+                                                [
+                                                    [
+                                                        "t",
+                                                        "The expression {it}seeing is believing{/it} means that when you actually see something, you have to believe that it exists or is true."
+                                                    ],
+                                                    [
+                                                        "vis",
+                                                        [
+                                                            {
+                                                                "t": "I didn't think it could happen, but {it}seeing is believing{/it}. [=I saw it happen, so now I believe it's possible]"
+                                                            }
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ],
+        "shortdef": [
+            "to accept or regard (something) as true",
+            "to accept the truth of what is said by (someone)",
+            "to have (a specified opinion) : think"
+        ]
+    },
+    {
+        "meta": {
+            "id": "charmed",
+            "uuid": "ce0a40d3-93b9-44be-ad9d-fdabef48777e",
+            "src": "learners",
+            "section": "alpha",
+            "target": {
+                "tuuid": "be715f12-0f55-43a0-8f9e-665cb79e9db2",
+                "tsrc": "collegiate"
+            },
+            "stems": [
+                "charmed",
+                "lived/led a charmed life",
+                "led a charmed life",
+                "lived a charmed life"
+            ],
+            "app-shortdef": {
+                "hw": "charmed",
+                "fl": "adjective",
+                "def": [
+                    "{bc} very lucky {bc} having good luck"
+                ]
+            },
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "charmed",
+            "prs": [
+                {
+                    "ipa": "\u02c8t\u0283\u0251\u025amd",
+                    "sound": {
+                        "audio": "charme01"
+                    }
+                }
+            ]
+        },
+        "fl": "adjective",
+        "gram": "more ~; most ~",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}very lucky {bc}having good luck "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "She has always {phrase}lived/led a charmed life{/phrase}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "very lucky : having good luck"
+        ]
+    },
+    {
+        "meta": {
+            "id": "thing",
+            "uuid": "7a9b23e2-e26c-4bb0-98c2-f50dc5fbdf5d",
+            "src": "learners",
+            "section": "alpha",
+            "target": {
+                "tuuid": "9d99ea70-71a4-4516-8411-5b3868f7d948",
+                "tsrc": "collegiate"
+            },
+            "highlight": "yes",
+            "stems": [
+                "thing",
+                "things",
+                "all/other things being equal",
+                "all things being equal",
+                "other things being equal",
+                "all things to all people/men",
+                "all things to all men",
+                "all things to all people",
+                "amount to the same thing",
+                "a thing",
+                "a thing or two",
+                "at the center of things",
+                "be hearing things",
+                "chance would be a fine thing",
+                "first thing",
+                "first things first",
+                "have another thing coming",
+                "just the thing",
+                "last thing",
+                "make a big thing",
+                "no such thing",
+                "of all things",
+                "one of those things",
+                "one thing after another",
+                "push things",
+                "see things",
+                "sure thing",
+                "the real thing",
+                "(what) with one thing and another",
+                "what with one thing and another",
+                "with one thing and another",
+                "a thing of the past",
+                "and things (like that)",
+                "and things",
+                "and things like that",
+                "a good thing",
+                "not a bad thing",
+                "no bad thing",
+                "the right thing",
+                "no easy thing",
+                "one thing led to another",
+                "do their own thing",
+                "do your thing",
+                "all things considered",
+                "think things over",
+                "the (funny) thing is",
+                "the funny thing is",
+                "the thing is",
+                "the thing with/about",
+                "the thing about",
+                "the thing with",
+                "for one thing",
+                "here's the thing",
+                "heres the thing",
+                "the thing is that",
+                "there's only one thing for it",
+                "theres only one thing for it",
+                "it doesn't mean a thing",
+                "it doesnt mean a thing",
+                "a thing like",
+                "just the right thing"
+            ],
+            "app-shortdef": {
+                "hw": "thing",
+                "fl": "noun",
+                "def": [
+                    "{bc} an object whose name is not known or stated",
+                    "{bc} an object, animal, quality, etc., of a specified kind",
+                    "{bc} a particular event, occurrence, or situation"
+                ]
+            },
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "thing",
+            "prs": [
+                {
+                    "ipa": "\u02c8\u03b8\u026a\u014b",
+                    "sound": {
+                        "audio": "thing001"
+                    }
+                }
+            ]
+        },
+        "fl": "noun",
+        "ins": [
+            {
+                "il": "plural",
+                "if": "things"
+            }
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sen",
+                            {
+                                "sn": "1",
+                                "sgram": "count"
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}an object whose name is not known or stated "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "What is that {it}thing{/it} on the floor?"
+                                            },
+                                            {
+                                                "t": "That {it}thing{/it} is loud."
+                                            },
+                                            {
+                                                "t": "He is good at making {it}things{/it} out of clay."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}an object, animal, quality, etc., of a specified kind "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "My doctor told me to avoid fatty {it}things{/it} like donuts and potato chips."
+                                            },
+                                            {
+                                                "t": "We must respect all living {it}things{/it}."
+                                            },
+                                            {
+                                                "t": "She loves all {it}things{/it} chocolate. [=she loves anything made out of chocolate]"
+                                            },
+                                            {
+                                                "t": "Her voice is a {it}thing{/it} of great beauty. [=her voice is very beautiful]"
+                                            },
+                                            {
+                                                "t": "The disease is said to be {phrase}a thing of the past{/phrase}. [=the disease no longer exists]"
+                                            },
+                                            {
+                                                "t": "The drawer has pens, paper clips, {phrase}and things (like that){/phrase}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a particular event, occurrence, or situation "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Birth is a miraculous {it}thing{/it}."
+                                            },
+                                            {
+                                                "t": "It was the worst {it}thing{/it} that could have happened."
+                                            },
+                                            {
+                                                "t": "That sunset was the most beautiful {it}thing{/it} I have ever seen."
+                                            },
+                                            {
+                                                "t": "Let's just forget about the whole {it}thing{/it} and move on."
+                                            },
+                                            {
+                                                "t": "The one {it}thing{/it} I hate most is being lied to."
+                                            },
+                                            {
+                                                "t": "It's {phrase}a good thing{/phrase} (that) no one was injured."
+                                            },
+                                            {
+                                                "t": "Becoming friends with your boss is {phrase}not a bad thing{/phrase}. = Becoming friends with your boss is {phrase}no bad thing{/phrase}. [=becoming friends with your boss could have good results]"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "bnote": "things",
+                                "sgram": "plural",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}objects that belong to a person {bc}personal possessions or belongings "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Are all your {it}things{/it} packed?"
+                                            },
+                                            {
+                                                "t": "I need a place to store my {it}things{/it}."
+                                            },
+                                            {
+                                                "t": "The children's {it}things{/it} are always lying around on the floor."
+                                            },
+                                            {
+                                                "t": "When she realized she was late for work, she quickly put on her {it}things{/it} [=she put on her clothes, shoes, etc.] and left."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "bnote": "things",
+                                "sgram": "plural",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}objects that are used for a particular activity "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Put the cleaning {it}things{/it} away when you are done."
+                                            },
+                                            {
+                                                "t": "She got out the cooking {it}things{/it} to bake some cookies."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4",
+                                "sgram": "count",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}an action that is done, that will be done, or that needs to be done "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "I have many {it}things{/it} to do today. = I have lots of {it}things{/it} that need to get done today."
+                                            },
+                                            {
+                                                "t": "There are a few {it}things{/it} we still have to deal with."
+                                            },
+                                            {
+                                                "t": "There is actually one {it}thing{/it} you can do to help."
+                                            },
+                                            {
+                                                "t": "Let's get this {it}thing{/it} over with quickly."
+                                            },
+                                            {
+                                                "t": "That was a mean/cruel/kind/generous/thoughtful {it}thing{/it} to do."
+                                            },
+                                            {
+                                                "t": "They expect great {it}things{/it} from her. [=they expect her to be very successful]"
+                                            },
+                                            {
+                                                "t": "The boy did {phrase}the right thing{/phrase} and gave back the toy he took."
+                                            },
+                                            {
+                                                "t": "It's {phrase}no easy thing{/phrase} [=it's not easy] to raise three children by yourself."
+                                            },
+                                            {
+                                                "t": "Cathy and I hit it off on our first date. {phrase}One thing led to another{/phrase}, and pretty soon we were engaged."
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "sometimes used to say that one action is more serious, difficult, or important than another. "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "It is one {it}thing{/it} to say you're sorry but (it is) another ({it}thing{/it}) to actually mean it."
+                                                        },
+                                                        {
+                                                            "t": "Planning a project is one {it}thing{/it}; doing it is another."
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sen",
+                            {
+                                "sn": "5",
+                                "sgram": "count"
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}an activity "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "What {it}things{/it} do you like to do in your spare time?"
+                                            },
+                                            {
+                                                "t": "I like hiking, biking\u2014that sort of {it}thing{/it}."
+                                            },
+                                            {
+                                                "t": "The students are allowed to {phrase}do their own thing{/phrase}. [=do the activities that they want to do]"
+                                            },
+                                            {
+                                                "t": "Just {phrase}do your thing{/phrase} [=do what you usually do] and pretend I'm not here."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "sls": [
+                                    "informal"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}an activity that is done by a particular group of people "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "They spent the evening doing guy {it}things{/it}. [=doing the kind of things that guys/men tend to like doing]"
+                                            },
+                                            {
+                                                "t": "You wouldn't understand, Dad. It's a girl {it}thing{/it}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "sls": [
+                                    "US",
+                                    "informal"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}an activity and everything that is related to it"
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "usually singular "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "He tried the college {it}thing{/it} [=he tried going to college] but dropped out after the first semester."
+                                                        },
+                                                        {
+                                                            "t": "She's done with the whole rebellious teenager {it}thing{/it}. [=she is no longer a rebellious teenager]"
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "d",
+                                "sls": [
+                                    "informal"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}an activity that someone enjoys or does well"
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "usually singular "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "Ballroom dancing is his {it}thing{/it}, not mine."
+                                                        },
+                                                        {
+                                                            "t": "It's not really my (kind of) {it}thing{/it}."
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "6",
+                                "bnote": "things",
+                                "sgram": "plural",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the conditions that exist at a particular time and in a particular place "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}Things{/it} are improving. [=the situation is improving]"
+                                            },
+                                            {
+                                                "t": "How are {it}things{/it} with the new baby?"
+                                            },
+                                            {
+                                                "t": "You're just making {it}things{/it} more difficult for yourself."
+                                            },
+                                            {
+                                                "t": "As {it}things{/it} stand now [=in the current situation], we can't afford a new car."
+                                            },
+                                            {
+                                                "t": "An apology would not change {it}things{/it} between us."
+                                            },
+                                            {
+                                                "t": "{phrase}All things considered{/phrase} [={it}overall{/it}; when you think about everything that happened], the party went very well."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "7",
+                                "sgram": "count",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a fact or piece of information about something or someone "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "He checks every little {it}thing{/it}. [={it}detail{/it}]"
+                                            },
+                                            {
+                                                "t": "There are a lot of {it}things{/it} you don't know about us."
+                                            },
+                                            {
+                                                "t": "The {it}thing{/it} I don't understand is why the car costs so much."
+                                            },
+                                            {
+                                                "t": "When buying a car, price and performance are important {it}things{/it} to consider."
+                                            },
+                                            {
+                                                "t": "There is one more {it}thing{/it} I'd like to ask you."
+                                            },
+                                            {
+                                                "t": "Several {it}things{/it} were discussed at the meeting."
+                                            },
+                                            {
+                                                "t": "I'll give you a couple of days to {phrase}think things over{/phrase}. [=to think about the situation and make a decision]"
+                                            },
+                                            {
+                                                "t": "We are always arguing, but {phrase}the (funny) thing is{/phrase}, I think I love him."
+                                            },
+                                            {
+                                                "t": "{it}The thing is{/it} that [=it is important to understand that] you can never predict who will win."
+                                            },
+                                            {
+                                                "t": "I make excellent chili. {it}The thing is{/it} to use the right peppers. [=to make excellent chili, you need to use the right peppers]"
+                                            },
+                                            {
+                                                "t": "{phrase}The thing with/about{/phrase} him [=an important characteristic to know about him] is that he is not reliable."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "8",
+                                "sgram": "count",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a thought, idea, or opinion "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "He just says the first {it}thing{/it} that pops into his mind."
+                                            },
+                                            {
+                                                "t": "Don't say {it}things{/it} you might regret later."
+                                            },
+                                            {
+                                                "t": "That was a terrible {it}thing{/it} to say."
+                                            },
+                                            {
+                                                "t": "He had some interesting {it}things{/it} to suggest."
+                                            },
+                                            {
+                                                "t": "She always knows the right {it}thing{/it} to say."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "9",
+                                "sgram": "singular",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a reason for something "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "I can't stand being around him. {phrase}For one thing{/phrase}, he smokes. For another, he's rude."
+                                            },
+                                            {
+                                                "t": "OK, {phrase}here's the thing{/phrase}: I don't have enough money to go to college."
+                                            },
+                                            {
+                                                "t": "I'm sorry I didn't call you. {phrase}The thing is{/phrase}, I've been really busy with work and school."
+                                            },
+                                            {
+                                                "t": "{phrase}The thing is that{/phrase} I haven't had time to call you."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sen",
+                            {
+                                "sn": "10",
+                                "sgram": "singular"
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a goal or purpose "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The {it}thing{/it} is to get well, and then you can think about playing again."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a way of reaching or achieving a goal "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "There is only one {it}thing{/it} left for us to do: fight back!"
+                                            },
+                                            {
+                                                "t": "({it}Brit{/it}) {phrase}There's only one thing for it{/phrase}: we must fight."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "11",
+                                "sgram": "count",
+                                "sls": [
+                                    "informal"
+                                ],
+                                "dt": [
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "used for a person, animal, or object that causes strong feelings of affection or dislike in you "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "You poor {it}thing{/it}, you must be freezing."
+                                                        },
+                                                        {
+                                                            "t": "She's a pretty little {it}thing{/it}, isn't she!"
+                                                        },
+                                                        {
+                                                            "t": "Get that dirty {it}thing{/it} out of my house!"
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "12",
+                                "sgram": "count",
+                                "sls": [
+                                    "informal"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a strong feeling of liking or disliking something or someone"
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "usually singular"
+                                                ]
+                                            ],
+                                            [
+                                                [
+                                                    "text",
+                                                    "used with {it}have{/it} "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "She {it}has{/it} a {it}thing{/it} about snakes. [=she's afraid of snakes]"
+                                                        },
+                                                        {
+                                                            "t": "He has always {it}had{/it} this {it}thing{/it} with flying."
+                                                        },
+                                                        {
+                                                            "t": "My teacher {it}had{/it} this/a {it}thing{/it} against me. [=my teacher disliked me for some unknown reason]"
+                                                        },
+                                                        {
+                                                            "t": "He {it}has{/it} a {it}thing{/it} for [=he likes] women with red hair."
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sen",
+                            {
+                                "sn": "13",
+                                "bnote": "the thing"
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the item that is the most fashionable or popular "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Long skirts are {it}the thing{/it} to wear this season."
+                                            },
+                                            {
+                                                "t": "It's {it}the{/it} newest/latest {it}thing{/it} in fashion."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the fashionable or proper way of behaving, talking, or dressing "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "It's {it}the thing{/it} this year to buy products made from recycled materials."
+                                            },
+                                            {
+                                                "t": "Wearing athletic shoes with a suit is not quite {it}the thing{/it}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "dros": [
+            {
+                "drp": "all/other things being equal",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sls": [
+                                            "formal"
+                                        ],
+                                        "dt": [
+                                            [
+                                                "uns",
+                                                [
+                                                    [
+                                                        [
+                                                            "text",
+                                                            "used to say what should happen or be true if two situations, products, etc., are different in a specified way but not in other ways "
+                                                        ],
+                                                        [
+                                                            "vis",
+                                                            [
+                                                                {
+                                                                    "t": "{it}All things being equal{/it}, a person with a PhD should be getting a higher salary than someone with only a Master's degree."
+                                                                }
+                                                            ]
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "all things to all people/men",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}a person or thing that makes all people happy by giving them what they want or need "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "It was clear that the senator was trying to be {it}all things to all people{/it} in her campaign."
+                                                    },
+                                                    {
+                                                        "t": "The museum is {it}all things to all people{/it}, young and old."
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "amount to the same thing",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "snote",
+                                                [
+                                                    [
+                                                        "t",
+                                                        "If two or more things {it}amount to the same thing{/it}, there is very little difference between them."
+                                                    ],
+                                                    [
+                                                        "vis",
+                                                        [
+                                                            {
+                                                                "t": "{ldquo}Lying and cheating {it}amount to the same thing{/it},{rdquo} she said."
+                                                            }
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "a thing",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}{sx|anything||}"
+                                            ],
+                                            [
+                                                "uns",
+                                                [
+                                                    [
+                                                        [
+                                                            "text",
+                                                            "used in negative statements "
+                                                        ],
+                                                        [
+                                                            "vis",
+                                                            [
+                                                                {
+                                                                    "t": "I can't see {it}a thing{/it} [=I can see nothing] without my glasses on."
+                                                                },
+                                                                {
+                                                                    "t": "The guests will be here soon, and I don't have {it}a thing{/it} (that is appropriate) to wear."
+                                                                },
+                                                                {
+                                                                    "t": "Don't worry about {it}a thing{/it}. I'll take care of everything."
+                                                                },
+                                                                {
+                                                                    "t": "I can't do {it}a thing{/it} to stop them!"
+                                                                },
+                                                                {
+                                                                    "t": "I got there early so I wouldn't miss {it}a thing{/it}."
+                                                                },
+                                                                {
+                                                                    "t": "The police couldn't get {it}a thing{/it} out of him."
+                                                                },
+                                                                {
+                                                                    "t": "She refused to tell me {it}a thing{/it} about it."
+                                                                },
+                                                                {
+                                                                    "t": "I haven't heard {it}a thing{/it} from him since graduation."
+                                                                },
+                                                                {
+                                                                    "t": "We haven't had {it}a thing{/it} to eat all day."
+                                                                },
+                                                                {
+                                                                    "t": "Forget what he said\u2014{phrase}it doesn't mean a thing{/phrase}. [=it has no meaning or importance; it's not true]"
+                                                                },
+                                                                {
+                                                                    "t": "None of this will {it}mean a thing{/it} if we lose."
+                                                                },
+                                                                {
+                                                                    "t": "She doesn't look {phrase}a thing like{/phrase} [={it}anything like{/it}] her older sister."
+                                                                },
+                                                                {
+                                                                    "t": "His new album doesn't sound {it}a thing like{/it} his last one. [=his new album sounds nothing like his old one]"
+                                                                }
+                                                            ]
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "a thing or two",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sls": [
+                                            "informal"
+                                        ],
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}some useful information "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "I know {it}a thing or two{/it} about cars."
+                                                    },
+                                                    {
+                                                        "t": "When it comes to cooking, she could teach you {it}a thing or two{/it}."
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "at the center of things",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{dx}see {dxt|center:1||}{/dx}"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "be hearing things",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{dx}see {dxt|hear||}{/dx}"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "chance would be a fine thing",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{dx}see {dxt|chance:1||}{/dx}"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "first thing",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{dx}see {dxt|first:1||}{/dx}"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "first things first",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{dx}see {dxt|first:1||}{/dx}"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "have another thing coming",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sls": [
+                                            "informal"
+                                        ],
+                                        "dt": [
+                                            [
+                                                "uns",
+                                                [
+                                                    [
+                                                        [
+                                                            "text",
+                                                            "used to say that someone is wrong or mistaken "
+                                                        ],
+                                                        [
+                                                            "vis",
+                                                            [
+                                                                {
+                                                                    "t": "If he thinks he can fool me, he {it}has another thing coming{/it}."
+                                                                }
+                                                            ]
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "just the thing",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}the thing that is most likely to be helpful "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "Chicken soup is {it}just the thing{/it} for a cold."
+                                                    },
+                                                    {
+                                                        "t": "I know {it}just the thing{/it} to cheer you up\u2014ice cream!"
+                                                    },
+                                                    {
+                                                        "t": "He always does/says {phrase}just the right thing{/phrase} to make me feel better."
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "last thing",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{dx}see {dxt|last:2||}{/dx}"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "make a big thing",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sls": [
+                                            "informal"
+                                        ],
+                                        "dt": [
+                                            [
+                                                "snote",
+                                                [
+                                                    [
+                                                        "t",
+                                                        "If you {it}make a big thing (out) of (something){/it} or {it}make a big thing about (something){/it}, you act as if something is very important or serious when it is not."
+                                                    ],
+                                                    [
+                                                        "vis",
+                                                        [
+                                                            {
+                                                                "t": "It was a minor error, but she {it}made a big thing out of{/it} it."
+                                                            },
+                                                            {
+                                                                "t": "Don't {it}make{/it} such {it}a big thing about{/it} missing the bus: there'll be another one along in a minute."
+                                                            }
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "no such thing",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "1",
+                                        "dt": [
+                                            [
+                                                "uns",
+                                                [
+                                                    [
+                                                        [
+                                                            "text",
+                                                            "used to say that a particular person, object, etc., does not really exist "
+                                                        ],
+                                                        [
+                                                            "vis",
+                                                            [
+                                                                {
+                                                                    "t": "A perfect person? There's {it}no such thing{/it}."
+                                                                }
+                                                            ]
+                                                        ]
+                                                    ],
+                                                    [
+                                                        [
+                                                            "text",
+                                                            "often + {it}as{/it} "
+                                                        ],
+                                                        [
+                                                            "vis",
+                                                            [
+                                                                {
+                                                                    "t": "There is {it}no such thing as{/it} a unicorn."
+                                                                },
+                                                                {
+                                                                    "t": "There is {it}no such thing as{/it} bad publicity. All publicity is good."
+                                                                }
+                                                            ]
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ],
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "2",
+                                        "dt": [
+                                            [
+                                                "uns",
+                                                [
+                                                    [
+                                                        [
+                                                            "text",
+                                                            "used to say that you did not say or do something that someone believes or says you did "
+                                                        ],
+                                                        [
+                                                            "vis",
+                                                            [
+                                                                {
+                                                                    "t": "{ldquo}Why did you invite her?{rdquo} {ldquo}I did {it}no such thing{/it}. She just showed up.{rdquo}"
+                                                                },
+                                                                {
+                                                                    "t": "{ldquo}He said that you're not going with us.{rdquo} {ldquo}I said {it}no such thing{/it}.{rdquo}"
+                                                                }
+                                                            ]
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "of all things",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "uns",
+                                                [
+                                                    [
+                                                        [
+                                                            "text",
+                                                            "used to emphasize that the thing you are referring to is the thing you would least expect "
+                                                        ],
+                                                        [
+                                                            "vis",
+                                                            [
+                                                                {
+                                                                    "t": "The coach is making the entire football team take, {it}of all things{/it}, ballet classes."
+                                                                }
+                                                            ]
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "one of those things",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sls": [
+                                            "informal"
+                                        ],
+                                        "dt": [
+                                            [
+                                                "uns",
+                                                [
+                                                    [
+                                                        [
+                                                            "text",
+                                                            "used to refer to a bad or unfortunate experience that happened and to say that such experiences happen to everyone "
+                                                        ],
+                                                        [
+                                                            "vis",
+                                                            [
+                                                                {
+                                                                    "t": "I missed the train and had to take a later one. It was just {it}one of those things{/it}, I guess."
+                                                                }
+                                                            ]
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "one thing after another",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "uns",
+                                                [
+                                                    [
+                                                        [
+                                                            "text",
+                                                            "used to complain about the large number of bad or unfortunate events that happen to someone "
+                                                        ],
+                                                        [
+                                                            "vis",
+                                                            [
+                                                                {
+                                                                    "t": "It's {it}one thing after another{/it} with him. Now he's in jail for drunk driving."
+                                                                },
+                                                                {
+                                                                    "t": "First I locked my keys in the car, and then I spilled coffee all over myself. It was just {it}one thing after another{/it} today!"
+                                                                }
+                                                            ]
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "push things",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{dx}see {dxt|push:1||}{/dx}"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "see things",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{dx}see {dxt|see:1||}{/dx}"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "sure thing",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{dx}see {dxt|sure:1||}{/dx}"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "the real thing",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}something that is genuine and not a copy or imitation {bc}something that is truly valuable or important "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "The diamond turned out to be {it}the real thing{/it}."
+                                                    },
+                                                    {
+                                                        "t": "a substitute for {it}the real thing{/it}"
+                                                    },
+                                                    {
+                                                        "t": "You've done very well in your training. Let's just hope you're ready for {it}the real thing{/it}."
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "(what) with one thing and another",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sls": [
+                                            "informal"
+                                        ],
+                                        "dt": [
+                                            [
+                                                "uns",
+                                                [
+                                                    [
+                                                        [
+                                                            "text",
+                                                            "used to say that you have been very busy doing or dealing with many things "
+                                                        ],
+                                                        [
+                                                            "vis",
+                                                            [
+                                                                {
+                                                                    "t": "{it}What with one thing and another{/it}, I have very little free time."
+                                                                }
+                                                            ]
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ],
+        "shortdef": [
+            "an object whose name is not known or stated",
+            "an object, animal, quality, etc., of a specified kind",
+            "a particular event, occurrence, or situation"
+        ]
+    }
+]

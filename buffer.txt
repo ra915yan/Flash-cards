@@ -1,0 +1,212 @@
+[
+    {
+        "meta": {
+            "id": "yawn:1",
+            "uuid": "8e47d99c-23b1-4b9f-8db9-8580bf31be67",
+            "src": "learners",
+            "section": "alpha",
+            "target": {
+                "tuuid": "455fd349-aa64-455f-a94e-bab899d4d2d9",
+                "tsrc": "collegiate"
+            },
+            "highlight": "yes",
+            "stems": [
+                "yawn",
+                "yawned",
+                "yawning",
+                "yawns"
+            ],
+            "app-shortdef": {
+                "hw": "yawn:1",
+                "fl": "verb",
+                "def": [
+                    "{bc} to open your mouth wide while taking in breath usually because you are tired or bored",
+                    "{it}of an opening, hole, etc.{/it} {bc} to be deep, large, etc."
+                ]
+            },
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "yawn",
+            "prs": [
+                {
+                    "ipa": "ˈjɑːn",
+                    "sound": {
+                        "audio": "yawn0001"
+                    }
+                }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "yawns"
+            },
+            {
+                "if": "yawned"
+            },
+            {
+                "if": "yawn*ing"
+            }
+        ],
+        "gram": "no obj",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to open your mouth wide while taking in breath usually because you are tired or bored "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Students were {it}yawning{/it} in class."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "sls": [
+                                    "of an opening, hole, etc."
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to be deep, large, etc. "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "A deep chasm {it}yawned{/it} [={it}gaped{/it}] below us."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to open your mouth wide while taking in breath usually because you are tired or bored",
+            "to be deep, large, etc."
+        ]
+    },
+    {
+        "meta": {
+            "id": "yawn:2",
+            "uuid": "b140ebb6-fbc6-4a0c-b78e-39884a62da45",
+            "src": "learners",
+            "section": "alpha",
+            "target": {
+                "tuuid": "f3550ddd-f93c-47df-b876-650041f03480",
+                "tsrc": "collegiate"
+            },
+            "highlight": "yes",
+            "stems": [
+                "yawn",
+                "yawns"
+            ],
+            "app-shortdef": {
+                "hw": "yawn:2",
+                "fl": "noun",
+                "def": [
+                    "{bc} an act of opening your mouth wide while taking in breath {bc} an act of yawning",
+                    "{it}informal{/it} {bc} something that is very boring"
+                ]
+            },
+            "offensive": false
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "yawn",
+            "altprs": [
+                {
+                    "ipa": "ˈjɑːn"
+                }
+            ]
+        },
+        "fl": "noun",
+        "ins": [
+            {
+                "il": "plural",
+                "if": "yawns"
+            }
+        ],
+        "gram": "count",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}an act of opening your mouth wide while taking in breath {bc}an act of yawning "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "I tried to stifle a {it}yawn{/it}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "sls": [
+                                    "informal"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}something that is very boring "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The movie was a great big {it}yawn{/it}. [=was very boring]"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "an act of opening your mouth wide while taking in breath : an act of yawning",
+            "something that is very boring"
+        ]
+    }
+]
