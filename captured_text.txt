@@ -1,3 +1,12 @@
 embark
 illustrating
 several
+scheduling
+priorities
+management
+Threads
+execution
+invoked
+infrequently
+Convenience
+Synchronization

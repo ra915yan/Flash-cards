@@ -1,212 +1,560 @@
-[
-    {
-        "meta": {
-            "id": "yawn:1",
-            "uuid": "8e47d99c-23b1-4b9f-8db9-8580bf31be67",
-            "src": "learners",
-            "section": "alpha",
-            "target": {
-                "tuuid": "455fd349-aa64-455f-a94e-bab899d4d2d9",
-                "tsrc": "collegiate"
-            },
-            "highlight": "yes",
-            "stems": [
-                "yawn",
-                "yawned",
-                "yawning",
-                "yawns"
-            ],
-            "app-shortdef": {
-                "hw": "yawn:1",
-                "fl": "verb",
-                "def": [
-                    "{bc} to open your mouth wide while taking in breath usually because you are tired or bored",
-                    "{it}of an opening, hole, etc.{/it} {bc} to be deep, large, etc."
-                ]
-            },
-            "offensive": false
-        },
-        "hom": 1,
-        "hwi": {
-            "hw": "yawn",
-            "prs": [
-                {
-                    "ipa": "ˈjɑːn",
-                    "sound": {
-                        "audio": "yawn0001"
-                    }
-                }
-            ]
-        },
-        "fl": "verb",
-        "ins": [
+{
+   "meta": {
+      "status": 200
+   },
+   "data": [
+      {
+         "slug": "犬",
+         "is_common": true,
+         "tags": [
+            "wanikani2"
+         ],
+         "jlpt": [
+            "jlpt-n5"
+         ],
+         "japanese": [
             {
-                "if": "yawns"
+               "word": "犬",
+               "reading": "いぬ"
             },
             {
-                "if": "yawned"
+               "word": "狗",
+               "reading": "いぬ"
             },
             {
-                "if": "yawn*ing"
+               "reading": "イヌ"
             }
-        ],
-        "gram": "no obj",
-        "def": [
+         ],
+         "senses": [
             {
-                "sseq": [
-                    [
-                        [
-                            "sense",
-                            {
-                                "sn": "1",
-                                "dt": [
-                                    [
-                                        "text",
-                                        "{bc}to open your mouth wide while taking in breath usually because you are tired or bored "
-                                    ],
-                                    [
-                                        "vis",
-                                        [
-                                            {
-                                                "t": "Students were {it}yawning{/it} in class."
-                                            }
-                                        ]
-                                    ]
-                                ]
-                            }
-                        ]
-                    ],
-                    [
-                        [
-                            "sense",
-                            {
-                                "sn": "2",
-                                "sls": [
-                                    "of an opening, hole, etc."
-                                ],
-                                "dt": [
-                                    [
-                                        "text",
-                                        "{bc}to be deep, large, etc. "
-                                    ],
-                                    [
-                                        "vis",
-                                        [
-                                            {
-                                                "t": "A deep chasm {it}yawned{/it} [={it}gaped{/it}] below us."
-                                            }
-                                        ]
-                                    ]
-                                ]
-                            }
-                        ]
-                    ]
-                ]
-            }
-        ],
-        "shortdef": [
-            "to open your mouth wide while taking in breath usually because you are tired or bored",
-            "to be deep, large, etc."
-        ]
-    },
-    {
-        "meta": {
-            "id": "yawn:2",
-            "uuid": "b140ebb6-fbc6-4a0c-b78e-39884a62da45",
-            "src": "learners",
-            "section": "alpha",
-            "target": {
-                "tuuid": "f3550ddd-f93c-47df-b876-650041f03480",
-                "tsrc": "collegiate"
+               "english_definitions": [
+                  "dog (Canis (lupus) familiaris)",
+                  "canine"
+               ],
+               "parts_of_speech": [
+                  "Noun"
+               ],
+               "links": [],
+               "tags": [],
+               "restrictions": [],
+               "see_also": [],
+               "antonyms": [],
+               "source": [],
+               "info": []
             },
-            "highlight": "yes",
-            "stems": [
-                "yawn",
-                "yawns"
-            ],
-            "app-shortdef": {
-                "hw": "yawn:2",
-                "fl": "noun",
-                "def": [
-                    "{bc} an act of opening your mouth wide while taking in breath {bc} an act of yawning",
-                    "{it}informal{/it} {bc} something that is very boring"
-                ]
+            {
+               "english_definitions": [
+                  "squealer",
+                  "rat",
+                  "snitch",
+                  "informer",
+                  "informant",
+                  "spy"
+               ],
+               "parts_of_speech": [
+                  "Noun"
+               ],
+               "links": [],
+               "tags": [
+                  "Derogatory",
+                  "Usually written using kana alone"
+               ],
+               "restrictions": [],
+               "see_also": [
+                  "みっこくしゃ"
+               ],
+               "antonyms": [],
+               "source": [],
+               "info": []
             },
-            "offensive": false
-        },
-        "hom": 2,
-        "hwi": {
-            "hw": "yawn",
-            "altprs": [
-                {
-                    "ipa": "ˈjɑːn"
-                }
-            ]
-        },
-        "fl": "noun",
-        "ins": [
             {
-                "il": "plural",
-                "if": "yawns"
-            }
-        ],
-        "gram": "count",
-        "def": [
+               "english_definitions": [
+                  "loser",
+                  "asshole"
+               ],
+               "parts_of_speech": [
+                  "Noun"
+               ],
+               "links": [],
+               "tags": [
+                  "Derogatory"
+               ],
+               "restrictions": [],
+               "see_also": [],
+               "antonyms": [],
+               "source": [],
+               "info": []
+            },
             {
-                "sseq": [
-                    [
-                        [
-                            "sense",
-                            {
-                                "sn": "1",
-                                "dt": [
-                                    [
-                                        "text",
-                                        "{bc}an act of opening your mouth wide while taking in breath {bc}an act of yawning "
-                                    ],
-                                    [
-                                        "vis",
-                                        [
-                                            {
-                                                "t": "I tried to stifle a {it}yawn{/it}."
-                                            }
-                                        ]
-                                    ]
-                                ]
-                            }
-                        ]
-                    ],
-                    [
-                        [
-                            "sense",
-                            {
-                                "sn": "2",
-                                "sls": [
-                                    "informal"
-                                ],
-                                "dt": [
-                                    [
-                                        "text",
-                                        "{bc}something that is very boring "
-                                    ],
-                                    [
-                                        "vis",
-                                        [
-                                            {
-                                                "t": "The movie was a great big {it}yawn{/it}. [=was very boring]"
-                                            }
-                                        ]
-                                    ]
-                                ]
-                            }
-                        ]
-                    ]
-                ]
+               "english_definitions": [
+                  "counterfeit",
+                  "inferior",
+                  "useless",
+                  "wasteful"
+               ],
+               "parts_of_speech": [
+                  "Noun, used as a prefix"
+               ],
+               "links": [],
+               "tags": [],
+               "restrictions": [],
+               "see_also": [],
+               "antonyms": [],
+               "source": [],
+               "info": []
             }
-        ],
-        "shortdef": [
-            "an act of opening your mouth wide while taking in breath : an act of yawning",
-            "something that is very boring"
-        ]
-    }
-]
+         ],
+         "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+         }
+      },
+      {
+         "slug": "犬歯",
+         "is_common": false,
+         "tags": [],
+         "jlpt": [],
+         "japanese": [
+            {
+               "word": "犬歯",
+               "reading": "けんし"
+            }
+         ],
+         "senses": [
+            {
+               "english_definitions": [
+                  "eyetooth",
+                  "cuspid",
+                  "canine (tooth)",
+                  "dogtooth"
+               ],
+               "parts_of_speech": [
+                  "Noun",
+                  "Noun which may take the genitive case particle 'no'"
+               ],
+               "links": [],
+               "tags": [],
+               "restrictions": [],
+               "see_also": [
+                  "糸切り歯"
+               ],
+               "antonyms": [],
+               "source": [],
+               "info": []
+            },
+            {
+               "english_definitions": [
+                  "Canine tooth"
+               ],
+               "parts_of_speech": [
+                  "Wikipedia definition"
+               ],
+               "links": [
+                  {
+                     "text": "Read “Canine tooth” on English Wikipedia",
+                     "url": "http://en.wikipedia.org/wiki/Canine_tooth?oldid=492876533"
+                  },
+                  {
+                     "text": "Read “犬歯” on Japanese Wikipedia",
+                     "url": "http://ja.wikipedia.org/wiki/犬歯?oldid=42526053"
+                  }
+               ],
+               "tags": [],
+               "restrictions": [],
+               "see_also": [],
+               "antonyms": [],
+               "source": [],
+               "info": [],
+               "sentences": []
+            }
+         ],
+         "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Canine_tooth"
+         }
+      },
+      {
+         "slug": "犬小屋",
+         "is_common": false,
+         "tags": [],
+         "jlpt": [],
+         "japanese": [
+            {
+               "word": "犬小屋",
+               "reading": "いぬごや"
+            }
+         ],
+         "senses": [
+            {
+               "english_definitions": [
+                  "kennel",
+                  "doghouse"
+               ],
+               "parts_of_speech": [
+                  "Noun"
+               ],
+               "links": [],
+               "tags": [],
+               "restrictions": [],
+               "see_also": [],
+               "antonyms": [],
+               "source": [],
+               "info": []
+            }
+         ],
+         "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+         }
+      },
+      {
+         "slug": "犬も食わない",
+         "is_common": false,
+         "tags": [],
+         "jlpt": [],
+         "japanese": [
+            {
+               "word": "犬も食わない",
+               "reading": "いぬもくわない"
+            },
+            {
+               "word": "犬も喰わない",
+               "reading": "いぬもくわない"
+            },
+            {
+               "word": "犬もくわない",
+               "reading": "いぬもくわない"
+            }
+         ],
+         "senses": [
+            {
+               "english_definitions": [
+                  "avoided by everybody",
+                  "disliked by everybody",
+                  "not even a dog will eat (it)"
+               ],
+               "parts_of_speech": [
+                  "Expressions (phrases, clauses, etc.)",
+                  "I-adjective (keiyoushi)"
+               ],
+               "links": [],
+               "tags": [
+                  "Idiomatic expression"
+               ],
+               "restrictions": [],
+               "see_also": [],
+               "antonyms": [],
+               "source": [],
+               "info": []
+            }
+         ],
+         "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+         }
+      },
+      {
+         "slug": "犬猫",
+         "is_common": false,
+         "tags": [],
+         "jlpt": [],
+         "japanese": [
+            {
+               "word": "犬猫",
+               "reading": "いぬねこ"
+            }
+         ],
+         "senses": [
+            {
+               "english_definitions": [
+                  "dogs and cats",
+                  "pets"
+               ],
+               "parts_of_speech": [
+                  "Noun"
+               ],
+               "links": [],
+               "tags": [],
+               "restrictions": [],
+               "see_also": [],
+               "antonyms": [],
+               "source": [],
+               "info": []
+            },
+            {
+               "english_definitions": [
+                  "something trivial",
+                  "worthless thing"
+               ],
+               "parts_of_speech": [
+                  "Noun"
+               ],
+               "links": [],
+               "tags": [
+                  "Idiomatic expression"
+               ],
+               "restrictions": [],
+               "see_also": [],
+               "antonyms": [],
+               "source": [],
+               "info": []
+            }
+         ],
+         "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+         }
+      },
+      {
+         "slug": "犬嫌い",
+         "is_common": false,
+         "tags": [],
+         "jlpt": [],
+         "japanese": [
+            {
+               "word": "犬嫌い",
+               "reading": "いぬぎらい"
+            }
+         ],
+         "senses": [
+            {
+               "english_definitions": [
+                  "dog hater",
+                  "dog hating"
+               ],
+               "parts_of_speech": [
+                  "Expressions (phrases, clauses, etc.)"
+               ],
+               "links": [],
+               "tags": [],
+               "restrictions": [],
+               "see_also": [],
+               "antonyms": [],
+               "source": [],
+               "info": []
+            }
+         ],
+         "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+         }
+      },
+      {
+         "slug": "犬と猿",
+         "is_common": false,
+         "tags": [],
+         "jlpt": [],
+         "japanese": [
+            {
+               "word": "犬と猿",
+               "reading": "いぬとさる"
+            }
+         ],
+         "senses": [
+            {
+               "english_definitions": [
+                  "cats and dogs (as an example of a bad relationship)",
+                  "dogs and monkeys"
+               ],
+               "parts_of_speech": [
+                  "Expressions (phrases, clauses, etc.)",
+                  "Noun"
+               ],
+               "links": [],
+               "tags": [
+                  "Idiomatic expression"
+               ],
+               "restrictions": [],
+               "see_also": [
+                  "犬猿"
+               ],
+               "antonyms": [],
+               "source": [],
+               "info": []
+            }
+         ],
+         "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+         }
+      },
+      {
+         "slug": "犬猿の仲",
+         "is_common": false,
+         "tags": [],
+         "jlpt": [],
+         "japanese": [
+            {
+               "word": "犬猿の仲",
+               "reading": "けんえんのなか"
+            }
+         ],
+         "senses": [
+            {
+               "english_definitions": [
+                  "like cats and dogs",
+                  "(on) very bad terms",
+                  "relationship of dogs and monkeys"
+               ],
+               "parts_of_speech": [
+                  "Expressions (phrases, clauses, etc.)",
+                  "Noun"
+               ],
+               "links": [],
+               "tags": [
+                  "Idiomatic expression"
+               ],
+               "restrictions": [],
+               "see_also": [],
+               "antonyms": [],
+               "source": [],
+               "info": []
+            }
+         ],
+         "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+         }
+      },
+      {
+         "slug": "犬掻き",
+         "is_common": false,
+         "tags": [],
+         "jlpt": [],
+         "japanese": [
+            {
+               "word": "犬かき",
+               "reading": "いぬかき"
+            },
+            {
+               "word": "犬掻き",
+               "reading": "いぬかき"
+            }
+         ],
+         "senses": [
+            {
+               "english_definitions": [
+                  "dog paddle (swimming style)",
+                  "doggy paddle"
+               ],
+               "parts_of_speech": [
+                  "Noun"
+               ],
+               "links": [],
+               "tags": [],
+               "restrictions": [],
+               "see_also": [],
+               "antonyms": [],
+               "source": [],
+               "info": []
+            },
+            {
+               "english_definitions": [
+                  "Dog paddle"
+               ],
+               "parts_of_speech": [
+                  "Wikipedia definition"
+               ],
+               "links": [
+                  {
+                     "text": "Read “Dog paddle” on English Wikipedia",
+                     "url": "http://en.wikipedia.org/wiki/Dog_paddle?oldid=483337852"
+                  },
+                  {
+                     "text": "Read “犬掻き” on Japanese Wikipedia",
+                     "url": "http://ja.wikipedia.org/wiki/犬掻き?oldid=40553179"
+                  }
+               ],
+               "tags": [],
+               "restrictions": [],
+               "see_also": [],
+               "antonyms": [],
+               "source": [],
+               "info": [],
+               "sentences": []
+            }
+         ],
+         "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Dog_paddle"
+         }
+      },
+      {
+         "slug": "犬槙",
+         "is_common": false,
+         "tags": [],
+         "jlpt": [],
+         "japanese": [
+            {
+               "word": "犬槙",
+               "reading": "いぬまき"
+            },
+            {
+               "word": "犬槇",
+               "reading": "いぬまき"
+            },
+            {
+               "reading": "イヌマキ"
+            }
+         ],
+         "senses": [
+            {
+               "english_definitions": [
+                  "yew plum pine (Podocarpus macrophyllus)"
+               ],
+               "parts_of_speech": [
+                  "Noun"
+               ],
+               "links": [],
+               "tags": [
+                  "Usually written using kana alone"
+               ],
+               "restrictions": [],
+               "see_also": [],
+               "antonyms": [],
+               "source": [],
+               "info": []
+            },
+            {
+               "english_definitions": [
+                  "Podocarpus macrophyllus"
+               ],
+               "parts_of_speech": [
+                  "Wikipedia definition"
+               ],
+               "links": [
+                  {
+                     "text": "Read “Podocarpus macrophyllus” on English Wikipedia",
+                     "url": "http://en.wikipedia.org/wiki/Podocarpus_macrophyllus?oldid=487562575"
+                  },
+                  {
+                     "text": "Read “イヌマキ” on Japanese Wikipedia",
+                     "url": "http://ja.wikipedia.org/wiki/イヌマキ?oldid=42246648"
+                  }
+               ],
+               "tags": [],
+               "restrictions": [],
+               "see_also": [],
+               "antonyms": [],
+               "source": [],
+               "info": [],
+               "sentences": []
+            }
+         ],
+         "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Podocarpus_macrophyllus"
+         }
+      }
+   ]
+}

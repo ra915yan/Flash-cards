@@ -1,0 +1,640 @@
+{
+   "meta": {
+      "status": 200
+   },
+   "data": [
+      {
+         "slug": "レ-1",
+         "is_common": false,
+         "tags": [],
+         "jlpt": [],
+         "japanese": [
+            {
+               "reading": "レ"
+            }
+         ],
+         "senses": [
+            {
+               "english_definitions": [
+                  "real (currency of Brazil)"
+               ],
+               "parts_of_speech": [
+                  "Noun"
+               ],
+               "links": [],
+               "tags": [
+                  "Abbreviation",
+                  "Brazilian"
+               ],
+               "restrictions": [],
+               "see_also": [
+                  "レアル"
+               ],
+               "antonyms": [],
+               "source": [],
+               "info": []
+            }
+         ],
+         "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+         }
+      },
+      {
+         "slug": "レ",
+         "is_common": false,
+         "tags": [],
+         "jlpt": [],
+         "japanese": [
+            {
+               "reading": "レ"
+            }
+         ],
+         "senses": [
+            {
+               "english_definitions": [
+                  "re (2nd note of a major scale in movable-do solfège)",
+                  "ray"
+               ],
+               "parts_of_speech": [
+                  "Noun"
+               ],
+               "links": [],
+               "tags": [
+                  "Music"
+               ],
+               "restrictions": [],
+               "see_also": [],
+               "antonyms": [],
+               "source": [
+                  {
+                     "language": "Italian",
+                     "word": ""
+                  }
+               ],
+               "info": []
+            },
+            {
+               "english_definitions": [
+                  "D (note in the fixed-do system)"
+               ],
+               "parts_of_speech": [
+                  "Noun"
+               ],
+               "links": [],
+               "tags": [
+                  "Music"
+               ],
+               "restrictions": [],
+               "see_also": [],
+               "antonyms": [],
+               "source": [],
+               "info": []
+            }
+         ],
+         "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+         }
+      },
+      {
+         "slug": "レ-2",
+         "is_common": false,
+         "tags": [],
+         "jlpt": [],
+         "japanese": [
+            {
+               "reading": "レ"
+            }
+         ],
+         "senses": [
+            {
+               "english_definitions": [
+                  "check mark",
+                  "tick mark"
+               ],
+               "parts_of_speech": [
+                  "Noun"
+               ],
+               "links": [],
+               "tags": [
+                  "Abbreviation"
+               ],
+               "restrictions": [],
+               "see_also": [
+                  "レ点"
+               ],
+               "antonyms": [],
+               "source": [],
+               "info": []
+            }
+         ],
+         "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+         }
+      },
+      {
+         "slug": "冷蔵庫",
+         "is_common": true,
+         "tags": [
+            "wanikani33"
+         ],
+         "jlpt": [
+            "jlpt-n5"
+         ],
+         "japanese": [
+            {
+               "word": "冷蔵庫",
+               "reading": "れいぞうこ"
+            }
+         ],
+         "senses": [
+            {
+               "english_definitions": [
+                  "refrigerator",
+                  "fridge"
+               ],
+               "parts_of_speech": [
+                  "Noun"
+               ],
+               "links": [],
+               "tags": [],
+               "restrictions": [],
+               "see_also": [],
+               "antonyms": [],
+               "source": [],
+               "info": []
+            },
+            {
+               "english_definitions": [
+                  "Refrigerator"
+               ],
+               "parts_of_speech": [
+                  "Wikipedia definition"
+               ],
+               "links": [
+                  {
+                     "text": "Read “Refrigerator” on English Wikipedia",
+                     "url": "http://en.wikipedia.org/wiki/Refrigerator?oldid=495381860"
+                  },
+                  {
+                     "text": "Read “冷蔵庫” on Japanese Wikipedia",
+                     "url": "http://ja.wikipedia.org/wiki/冷蔵庫?oldid=42644894"
+                  }
+               ],
+               "tags": [],
+               "restrictions": [],
+               "see_also": [],
+               "antonyms": [],
+               "source": [],
+               "info": [],
+               "sentences": []
+            }
+         ],
+         "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Refrigerator"
+         }
+      },
+      {
+         "slug": "歴史",
+         "is_common": true,
+         "tags": [
+            "wanikani19"
+         ],
+         "jlpt": [
+            "jlpt-n4"
+         ],
+         "japanese": [
+            {
+               "word": "歴史",
+               "reading": "れきし"
+            }
+         ],
+         "senses": [
+            {
+               "english_definitions": [
+                  "history"
+               ],
+               "parts_of_speech": [
+                  "Noun"
+               ],
+               "links": [],
+               "tags": [],
+               "restrictions": [],
+               "see_also": [],
+               "antonyms": [],
+               "source": [],
+               "info": []
+            },
+            {
+               "english_definitions": [
+                  "History"
+               ],
+               "parts_of_speech": [
+                  "Wikipedia definition"
+               ],
+               "links": [
+                  {
+                     "text": "Read “History” on English Wikipedia",
+                     "url": "http://en.wikipedia.org/wiki/History?oldid=494779369"
+                  },
+                  {
+                     "text": "Read “歴史” on Japanese Wikipedia",
+                     "url": "http://ja.wikipedia.org/wiki/歴史?oldid=42701369"
+                  }
+               ],
+               "tags": [],
+               "restrictions": [],
+               "see_also": [],
+               "antonyms": [],
+               "source": [],
+               "info": [],
+               "sentences": []
+            }
+         ],
+         "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/History"
+         }
+      },
+      {
+         "slug": "列車",
+         "is_common": true,
+         "tags": [],
+         "jlpt": [
+            "jlpt-n3"
+         ],
+         "japanese": [
+            {
+               "word": "列車",
+               "reading": "れっしゃ"
+            }
+         ],
+         "senses": [
+            {
+               "english_definitions": [
+                  "train",
+                  "railway train"
+               ],
+               "parts_of_speech": [
+                  "Noun"
+               ],
+               "links": [],
+               "tags": [],
+               "restrictions": [],
+               "see_also": [],
+               "antonyms": [],
+               "source": [],
+               "info": []
+            },
+            {
+               "english_definitions": [
+                  "Train"
+               ],
+               "parts_of_speech": [
+                  "Wikipedia definition"
+               ],
+               "links": [
+                  {
+                     "text": "Read “Train” on English Wikipedia",
+                     "url": "http://en.wikipedia.org/wiki/Train?oldid=495109996"
+                  },
+                  {
+                     "text": "Read “列車” on Japanese Wikipedia",
+                     "url": "http://ja.wikipedia.org/wiki/列車?oldid=42691040"
+                  }
+               ],
+               "tags": [],
+               "restrictions": [],
+               "see_also": [],
+               "antonyms": [],
+               "source": [],
+               "info": [],
+               "sentences": []
+            }
+         ],
+         "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Train"
+         }
+      },
+      {
+         "slug": "礼",
+         "is_common": true,
+         "tags": [],
+         "jlpt": [
+            "jlpt-n3"
+         ],
+         "japanese": [
+            {
+               "word": "礼",
+               "reading": "れい"
+            }
+         ],
+         "senses": [
+            {
+               "english_definitions": [
+                  "thanks",
+                  "gratitude"
+               ],
+               "parts_of_speech": [
+                  "Noun"
+               ],
+               "links": [],
+               "tags": [],
+               "restrictions": [],
+               "see_also": [
+                  "お礼"
+               ],
+               "antonyms": [],
+               "source": [],
+               "info": []
+            },
+            {
+               "english_definitions": [
+                  "manners",
+                  "etiquette"
+               ],
+               "parts_of_speech": [
+                  "Noun"
+               ],
+               "links": [],
+               "tags": [],
+               "restrictions": [],
+               "see_also": [],
+               "antonyms": [],
+               "source": [],
+               "info": []
+            },
+            {
+               "english_definitions": [
+                  "bow (i.e. bending of the body)",
+                  "bowing"
+               ],
+               "parts_of_speech": [
+                  "Noun",
+                  "Counter"
+               ],
+               "links": [],
+               "tags": [],
+               "restrictions": [],
+               "see_also": [],
+               "antonyms": [],
+               "source": [],
+               "info": []
+            },
+            {
+               "english_definitions": [
+                  "reward",
+                  "gift"
+               ],
+               "parts_of_speech": [
+                  "Noun"
+               ],
+               "links": [],
+               "tags": [],
+               "restrictions": [],
+               "see_also": [],
+               "antonyms": [],
+               "source": [],
+               "info": []
+            },
+            {
+               "english_definitions": [
+                  "ceremony",
+                  "ritual"
+               ],
+               "parts_of_speech": [
+                  "Noun"
+               ],
+               "links": [],
+               "tags": [],
+               "restrictions": [],
+               "see_also": [],
+               "antonyms": [],
+               "source": [],
+               "info": []
+            },
+            {
+               "english_definitions": [
+                  "key money"
+               ],
+               "parts_of_speech": [
+                  "Noun"
+               ],
+               "links": [],
+               "tags": [
+                  "Abbreviation"
+               ],
+               "restrictions": [],
+               "see_also": [
+                  "礼金"
+               ],
+               "antonyms": [],
+               "source": [],
+               "info": []
+            },
+            {
+               "english_definitions": [
+                  "Li (Confucian)"
+               ],
+               "parts_of_speech": [
+                  "Wikipedia definition"
+               ],
+               "links": [
+                  {
+                     "text": "Read “Li (Confucian)” on English Wikipedia",
+                     "url": "http://en.wikipedia.org/wiki/Li_(Confucian)?oldid=490599023"
+                  },
+                  {
+                     "text": "Read “礼” on Japanese Wikipedia",
+                     "url": "http://ja.wikipedia.org/wiki/礼?oldid=39860994"
+                  }
+               ],
+               "tags": [],
+               "restrictions": [],
+               "see_also": [],
+               "antonyms": [],
+               "source": [],
+               "info": [],
+               "sentences": []
+            }
+         ],
+         "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Li_(Confucian)"
+         }
+      },
+      {
+         "slug": "連想",
+         "is_common": true,
+         "tags": [],
+         "jlpt": [
+            "jlpt-n3"
+         ],
+         "japanese": [
+            {
+               "word": "連想",
+               "reading": "れんそう"
+            },
+            {
+               "word": "聯想",
+               "reading": "れんそう"
+            }
+         ],
+         "senses": [
+            {
+               "english_definitions": [
+                  "association (of ideas)",
+                  "being reminded (of something)",
+                  "suggestion"
+               ],
+               "parts_of_speech": [
+                  "Noun",
+                  "Suru verb",
+                  "Transitive verb"
+               ],
+               "links": [],
+               "tags": [],
+               "restrictions": [],
+               "see_also": [],
+               "antonyms": [],
+               "source": [],
+               "info": []
+            },
+            {
+               "english_definitions": [
+                  "Association (psychology)"
+               ],
+               "parts_of_speech": [
+                  "Wikipedia definition"
+               ],
+               "links": [
+                  {
+                     "text": "Read “Association (psychology)” on English Wikipedia",
+                     "url": "http://en.wikipedia.org/wiki/Association_(psychology)?oldid=493940210"
+                  },
+                  {
+                     "text": "Read “連想” on Japanese Wikipedia",
+                     "url": "http://ja.wikipedia.org/wiki/連想?oldid=41700431"
+                  }
+               ],
+               "tags": [],
+               "restrictions": [],
+               "see_also": [],
+               "antonyms": [],
+               "source": [],
+               "info": [],
+               "sentences": []
+            }
+         ],
+         "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Association_(psychology)"
+         }
+      },
+      {
+         "slug": "練習",
+         "is_common": true,
+         "tags": [
+            "wanikani13",
+            "wanikani15"
+         ],
+         "jlpt": [
+            "jlpt-n3",
+            "jlpt-n5"
+         ],
+         "japanese": [
+            {
+               "word": "練習",
+               "reading": "れんしゅう"
+            }
+         ],
+         "senses": [
+            {
+               "english_definitions": [
+                  "practice",
+                  "training",
+                  "drill",
+                  "(an) exercise",
+                  "workout"
+               ],
+               "parts_of_speech": [
+                  "Noun",
+                  "Suru verb",
+                  "Transitive verb"
+               ],
+               "links": [],
+               "tags": [],
+               "restrictions": [],
+               "see_also": [],
+               "antonyms": [],
+               "source": [],
+               "info": []
+            }
+         ],
+         "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+         }
+      },
+      {
+         "slug": "零",
+         "is_common": true,
+         "tags": [
+            "wanikani46"
+         ],
+         "jlpt": [
+            "jlpt-n5"
+         ],
+         "japanese": [
+            {
+               "word": "零",
+               "reading": "れい"
+            },
+            {
+               "word": "０",
+               "reading": "れい"
+            },
+            {
+               "word": "〇",
+               "reading": "れい"
+            }
+         ],
+         "senses": [
+            {
+               "english_definitions": [
+                  "zero",
+                  "nought"
+               ],
+               "parts_of_speech": [
+                  "Noun"
+               ],
+               "links": [],
+               "tags": [],
+               "restrictions": [],
+               "see_also": [],
+               "antonyms": [],
+               "source": [],
+               "info": []
+            }
+         ],
+         "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+         }
+      }
+   ]
+}
