@@ -1,0 +1,477 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": [
+        {
+            "slug": "\u6bcd",
+            "is_common": true,
+            "tags": [
+                "wanikani3"
+            ],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "\u6bcd",
+                    "reading": "\u306f\u306f"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "mother"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Humble (kenjougo) language"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "\u7236"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ],
+            "attribution": {
+                "jmdict": true,
+                "jmnedict": false,
+                "dbpedia": false
+            }
+        },
+        {
+            "slug": "\u6bcd-1",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "\u6bcd",
+                    "reading": "\u304b\u304b"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "mommy",
+                        "mummy",
+                        "mama"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Children's language",
+                        "Archaic"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ],
+            "attribution": {
+                "jmdict": true,
+                "jmnedict": false,
+                "dbpedia": false
+            }
+        },
+        {
+            "slug": "\u6bcd-2",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "\u6bcd",
+                    "reading": "\u3044\u308d\u306f"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "(one's) biological mother",
+                        "birth mother"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Archaic"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ],
+            "attribution": {
+                "jmdict": true,
+                "jmnedict": false,
+                "dbpedia": false
+            }
+        },
+        {
+            "slug": "\u6bcd\u89aa",
+            "is_common": true,
+            "tags": [
+                "wanikani12"
+            ],
+            "jlpt": [
+                "jlpt-n3"
+            ],
+            "japanese": [
+                {
+                    "word": "\u6bcd\u89aa",
+                    "reading": "\u306f\u306f\u304a\u3084"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "mother"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Mother"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read \u201cMother\u201d on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Mother?oldid=494503238"
+                        },
+                        {
+                            "text": "Read \u201c\u6bcd\u89aa\u201d on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/\u6bcd\u89aa?oldid=42206688"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [],
+                    "sentences": []
+                }
+            ],
+            "attribution": {
+                "jmdict": true,
+                "jmnedict": false,
+                "dbpedia": "http://dbpedia.org/resource/Mother"
+            }
+        },
+        {
+            "slug": "\u6bcd\u6821",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n1"
+            ],
+            "japanese": [
+                {
+                    "word": "\u6bcd\u6821",
+                    "reading": "\u307c\u3053\u3046"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "alma mater"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ],
+            "attribution": {
+                "jmdict": true,
+                "jmnedict": false,
+                "dbpedia": false
+            }
+        },
+        {
+            "slug": "\u6bcd\u97f3",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "\u6bcd\u97f3",
+                    "reading": "\u307c\u3044\u3093"
+                },
+                {
+                    "word": "\u6bcd\u97f3",
+                    "reading": "\u307c\u304a\u3093"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "vowel"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Linguistics"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "\u5b50\u97f3"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Vowel"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read \u201cVowel\u201d on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Vowel?oldid=495021025"
+                        },
+                        {
+                            "text": "Read \u201c\u6bcd\u97f3\u201d on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/\u6bcd\u97f3?oldid=42739806"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [],
+                    "sentences": []
+                }
+            ],
+            "attribution": {
+                "jmdict": true,
+                "jmnedict": false,
+                "dbpedia": "http://dbpedia.org/resource/Vowel"
+            }
+        },
+        {
+            "slug": "\u6bcd\u306e\u65e5",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "\u6bcd\u306e\u65e5",
+                    "reading": "\u306f\u306f\u306e\u3072"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "Mother's Day (2nd Sunday of May)"
+                    ],
+                    "parts_of_speech": [
+                        "Expressions (phrases, clauses, etc.)",
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Mother's Day"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read \u201cMother's Day\u201d on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Mother's_Day?oldid=494864080"
+                        },
+                        {
+                            "text": "Read \u201c\u6bcd\u306e\u65e5\u201d on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/\u6bcd\u306e\u65e5?oldid=42686188"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [],
+                    "sentences": []
+                }
+            ],
+            "attribution": {
+                "jmdict": true,
+                "jmnedict": false,
+                "dbpedia": "http://dbpedia.org/resource/Mother's_Day"
+            }
+        },
+        {
+            "slug": "\u6bcd\u3055\u3093",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "\u6bcd\u3055\u3093",
+                    "reading": "\u304b\u3042\u3055\u3093"
+                },
+                {
+                    "word": "\u6bcd\u3055\u3093",
+                    "reading": "\u304b\u304b\u3055\u3093"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "mother"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "\u304a\u6bcd\u3055\u3093"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "wife"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Colloquial"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [
+                        "used when speaking to or about one's own wife"
+                    ]
+                }
+            ],
+            "attribution": {
+                "jmdict": true,
+                "jmnedict": false,
+                "dbpedia": false
+            }
+        },
+        {
+            "slug": "\u6bcd\u4e73",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "\u6bcd\u4e73",
+                    "reading": "\u307c\u306b\u3085\u3046"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "mother's milk"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ],
+            "attribution": {
+                "jmdict": true,
+                "jmnedict": false,
+                "dbpedia": false
+            }
+        },
+        {
+            "slug": "\u6bcd\u56fd",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "\u6bcd\u56fd",
+                    "reading": "\u307c\u3053\u304f"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "one's home country",
+                        "one's homeland"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ],
+            "attribution": {
+                "jmdict": true,
+                "jmnedict": false,
+                "dbpedia": false
+            }
+        }
+    ]
+}

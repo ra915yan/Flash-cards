@@ -1,0 +1,24 @@
+2026-03-14 21:39:33,864 - INFO - Retrieving the word: Hello
+2026-03-14 21:39:33,864 - INFO - not found Hello in database
+2026-03-14 21:39:33,864 - INFO - fetch Hello from api: DictionaryAPI
+2026-03-14 21:39:33,868 - INFO - failed
+2026-03-14 21:43:00,574 - INFO - Retrieving the word: Hello
+2026-03-14 21:43:00,575 - INFO - not found Hello in database
+2026-03-14 21:43:00,575 - INFO - fetch Hello from api: DictionaryAPI
+2026-03-14 21:43:01,266 - INFO - failed
+2026-03-14 21:43:19,835 - INFO - Retrieving the word: Hello
+2026-03-14 21:43:19,836 - INFO - not found Hello in database
+2026-03-14 21:43:19,836 - INFO - fetch Hello from api: DictionaryAPI
+2026-03-14 21:43:20,324 - INFO - failed
+2026-03-14 21:43:46,206 - INFO - Retrieving the word: Hello
+2026-03-14 21:43:46,206 - INFO - not found Hello in database
+2026-03-14 21:43:46,206 - INFO - fetch Hello from api: DictionaryAPI
+2026-03-14 21:43:46,701 - INFO - failed
+2026-03-14 21:44:14,751 - INFO - Retrieving the word: Hello
+2026-03-14 21:44:14,752 - INFO - not found Hello in database
+2026-03-14 21:44:14,752 - INFO - fetch Hello from api: DictionaryAPI
+2026-03-14 21:44:15,464 - INFO - failed
+2026-03-14 21:50:18,606 - INFO - Retrieving the word: Hello
+2026-03-14 21:50:18,606 - INFO - not found Hello in database
+2026-03-14 21:50:18,606 - INFO - fetch Hello from api: DictionaryAPI
+2026-03-14 21:50:19,408 - INFO - success

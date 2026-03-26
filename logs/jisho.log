@@ -1,0 +1,31 @@
+2026-03-14 21:06:56,362 - INFO - success
+2026-03-14 21:07:23,355 - INFO - success
+2026-03-14 21:08:35,064 - INFO - success
+2026-03-14 21:11:02,457 - INFO - Retrieving the word: 真っ黒
+2026-03-14 21:11:02,458 - INFO - not found 真っ黒 in database
+2026-03-14 21:11:02,458 - INFO - fetch 真っ黒 from api: jisho
+2026-03-14 21:11:03,214 - INFO - success
+2026-03-14 21:23:08,581 - INFO - Retrieving the word: 真っ黒
+2026-03-14 21:23:08,582 - INFO - not found 真っ黒 in database
+2026-03-14 21:23:08,582 - INFO - fetch 真っ黒 from api: jisho
+2026-03-14 21:23:09,328 - INFO - success
+2026-03-14 21:26:06,971 - INFO - Retrieving the word: 母
+2026-03-14 21:26:06,972 - INFO - not found 母 in database
+2026-03-14 21:26:06,972 - INFO - fetch 母 from api: jisho
+2026-03-14 21:26:07,734 - INFO - success
+2026-03-14 21:27:20,389 - INFO - Retrieving the word: 母
+2026-03-14 21:27:20,390 - INFO - not found 母 in database
+2026-03-14 21:27:20,391 - INFO - fetch 母 from api: jisho
+2026-03-14 21:27:21,266 - INFO - success
+2026-03-26 02:51:57,801 - INFO - Retrieving the word: kasan
+2026-03-26 02:51:57,801 - INFO - not found kasan in database
+2026-03-26 02:51:57,801 - INFO - fetch kasan from api: jisho
+2026-03-26 02:51:58,692 - INFO - success
+2026-03-26 02:52:31,126 - INFO - Retrieving the word: kasan
+2026-03-26 02:52:31,126 - INFO - not found kasan in database
+2026-03-26 02:52:31,127 - INFO - fetch kasan from api: jisho
+2026-03-26 02:52:31,897 - INFO - success
+2026-03-26 02:53:07,109 - INFO - Retrieving the word: 母
+2026-03-26 02:53:07,110 - INFO - not found 母 in database
+2026-03-26 02:53:07,110 - INFO - fetch 母 from api: jisho
+2026-03-26 02:53:07,912 - INFO - success
