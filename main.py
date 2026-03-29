@@ -1,24 +1,43 @@
 
 import os
 import xml.etree.ElementTree as ET
-KANA_PATH = r"data\\Japanese_dictionary\\JMdict_e.xml"
+from xml.etree.ElementTree import Element
+from functools import reduce
+import operator
+# from xml_filter.dataClasses import Entry, KanjiElement, ReadingElement, Sense
+import config
+from xml_filter.XML_node import XML_parser, XML_node
 
 
-entry_count = 0
-
-def recursiveIterXML(PATH:str, number_of_top_nodes = 1):
-    context = ET.iterparse(source= PATH, events=('end',))
-    for _ in range(number_of_top_nodes):
-        event, root = next(context)
-
-
+def print_tree(current_node:'XML_node', level = 0):
+    
+    print(f"{'\t' * level}{current_node}")
+    for child in current_node.get_children().values():
+        print_tree(child, level + 1)
+    
 
 
-
+XML_parser.create_templet(config.KANA_XML_FILE_PATH_JMDICT_E)
 
 
 
-   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

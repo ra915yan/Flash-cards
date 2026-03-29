@@ -11,7 +11,8 @@ JP_PATTERN          = "\u3000-\u303f"
 DICTIONARY_API_BASE_URL = r"https://www.dictionaryapi.com/api/v3/references/learners/json"
 DICTIONARY_API_KEY = os.getenv("dictionaryapi_key")
 
-
+KANA_XML_FILE_PATH_JMDICT_E = r"data\\Japanese_dictionary\\JMdict_e.xml"
+KANJI_XML_FILE_PATH_KANJIDIC2 = r'data\\Japanese_dictionary\\kanjidic2.xml'
 
 JISHO_BASE_URL = r"https://jisho.org/api/v1/search/words?keyword="
 
