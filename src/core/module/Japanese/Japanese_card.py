@@ -1,6 +1,6 @@
 from dataclasses import dataclass, field
 from typing import Optional
-from src.module.InterfaceDataObject import InterfaceDataObject,ColumnSetting
+from src.core.module.InterfaceDataObject import InterfaceDataObject,ColumnSetting
 
 
 @dataclass

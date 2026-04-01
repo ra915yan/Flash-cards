@@ -1,6 +1,6 @@
 from dataclasses import dataclass , field
 from typing import List, Any
-from module.InterfaceDataObject import InterfaceDataObject
+from src.core.module.InterfaceDataObject import InterfaceDataObject
 
 
 @dataclass

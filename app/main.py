@@ -1,5 +1,5 @@
 
-from src.InterfaceAPI import JishoAPI
+from src.database.InterfaceAPI import JishoAPI
 import config
 # obj = JishoAPI("母", None)
 

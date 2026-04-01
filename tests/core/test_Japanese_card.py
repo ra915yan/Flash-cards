@@ -1,5 +1,5 @@
 import pytest
-from src.module.Japanese_card import Sense,JishoWord,JapaneseForm
+from src.core.module.Japanese.Japanese_card import Sense,JishoWord,JapaneseForm
 
 
 Sense_sample = {

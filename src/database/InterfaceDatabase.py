@@ -1,5 +1,5 @@
 from abc import ABC,abstractmethod
-from src.module import InterfaceDataObject
+from src.core.module import InterfaceDataObject
 
 
 

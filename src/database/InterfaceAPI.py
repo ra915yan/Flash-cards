@@ -2,7 +2,7 @@
 from abc import ABC,abstractmethod
 import requests
 import logging
-from src import InterfaceDatabase
+from src.database import InterfaceDatabase
 import config
 
 class InterfaceAPI(ABC):

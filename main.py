@@ -9,18 +9,14 @@ import config
 from xml_filter.XML_node import XML_parser, XML_node
 
 
-def print_tree(current_node:'XML_node', level = 0):
-    
-    print(f"{'\t' * level}{current_node}")
-    for child in current_node.get_children().values():
-        print_tree(child, level + 1)
+
     
 
 
-XML_parser.create_templet(config.KANA_XML_FILE_PATH_JMDICT_E)
+list_paths = XML_parser.get_list_paths(config.KANA_XML_FILE_PATH_JMDICT_E)
 
-
-
+for path in sorted(list_paths, key=len):
+    print(path)
 
 
 
